@@ -90,7 +90,7 @@ public class GetData {
     public void getNewsInfo( String url, Config config, String encode ) {  //新闻来源url
         Document doc = null;
         try {
-            NewsEyeSpider.logger.info("即将获取 " + url);
+            NewsEyeSpider.logger.info("[即将获取] " + url);
             doc = getDocument(url, encode);
             Element titleEle = doc.select(config.ruleTitle.titleEle).first();
             Element titleTag = titleEle.select(config.ruleTitle.titleTag).first();

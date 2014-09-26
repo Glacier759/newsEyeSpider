@@ -16,7 +16,7 @@ public class NewsEyeSpider {
     public static Logger logger = Logger.getLogger(NewsEyeSpider.class.getName());
     {
         //PropertyConfigurator.configure("log4jconfig.xml");
-        DOMConfigurator.configure("log4jconfig.xml");
+        DOMConfigurator.configure("log4j.xml");
     }
 
     public static void main(String[] args) {
