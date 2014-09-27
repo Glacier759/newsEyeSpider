@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <SpiderConfig>
-	<class>
+	<class><!--
 		<newspaper name="人民日报" startUrl="http://paper.people.com.cn/rmrb/" encode="UTF-8"/>
 		<newspaper name="人民日报海外版" startUrl="http://paper.chinaso.com/rmrbhwb.html" encode="UTF-8"/>
 		<newspaper name="光明日报" startUrl="http://paper.chinaso.com/gmrb.html" encode="UTF-8"/>
 		<newspaper name="国际金融报" startUrl="http://paper.chinaso.com/gjjrb.html" encode="UTF-8"/>
 		<newspaper name="健康时报" startUrl="http://paper.people.com.cn/jksb/paperindex.htm" encode="UTF-8"/>
 		<newspaper name="中国青年报" startUrl="http://paper.chinaso.com/zgqnb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -31,8 +32,10 @@
 		<ruleImg>div[class=text_c]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="北京日报" startUrl="http://paper.chinaso.com/bjrb.html" encode="UTF-8"/>
 		<newspaper name="北京晚报" startUrl="http://paper.chinaso.com/bjwb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -56,7 +59,9 @@
 		<ruleImg>td[align=center]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="北京晨报" startUrl="http://bjcb.morningpost.com.cn/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -80,7 +85,9 @@
 		<ruleImg>founder-content</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="北京青年报" startUrl="http://paper.chinaso.com/bjqnb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -104,7 +111,9 @@
 		<ruleImg>div[class=contnt]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="兵团日报" startUrl="http://epaper.bingtuannet.com" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">td[height=205]</pageEle>
 			<pageEles>a[abs:href]</pageEles>
@@ -128,8 +137,10 @@
 		<ruleImg>div[id=ozoom]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="滨海时报" startUrl="http://bhsb.tjbhnews.com/paperindex.htm" encode="UTF-8"/>
 		<newspaper name="长沙晚报" startUrl="http://cswb.changsha.cn/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -153,8 +164,10 @@
 		<ruleImg>table[bgcolor=#efefef]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="长春日报" startUrl="http://ccrb.1news.cc/" encode="UTF-8"/>
 		<newspaper name="长春晚报" startUrl="http://ccwb.1news.cc/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -178,9 +191,11 @@
 		<ruleImg>td[align=center]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="长江日报" startUrl="http://cjrb.cjn.cn/" encode="UTF-8"/>
 		<newspaper name="杭州日报" startUrl="http://hzdaily.hangzhou.com.cn/hzrb/" encode="UTF-8"/>
 		<newspaper name="武汉晚报" startUrl="http://paper.chinaso.com/whwb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -204,7 +219,9 @@
 		<ruleImg>table[bgcolor=#efefef]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="成都日报" startUrl="http://www.cdrb.com.cn/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">tr[bgcolor=#FBDBDB]</pageEle>
 			<pageEles>a[abs:href]</pageEles>
@@ -228,7 +245,9 @@
 		<ruleImg>table[bgcolor=#efefef]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="成都商报" startUrl="http://e.chengdu.cn/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -252,7 +271,9 @@
 		<ruleImg>a[class=thumbnail]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="重庆晨报" startUrl="http://epaper.cqcb.com/" encode="GBK"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -276,7 +297,9 @@
 		<ruleImg>div[class=hhhhh]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="大连日报" startUrl="http://szb.dlxww.com/dlrb/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[class=page_ti]</pageEles>
@@ -300,7 +323,9 @@
 		<ruleImg>div[class=page_words]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="大众日报" startUrl="http://paper.chinaso.com/dzrb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">ul[id=banlist]</pageEle>
 			<pageEles>a</pageEles>
@@ -324,7 +349,9 @@
 		<ruleImg>table[bordercolor=#AED0FE]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="法制日报" startUrl="http://paper.chinaso.com/fzrb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">td[bgColor=#4ac0ff]</pageEle>
 			<pageEles>a</pageEles>
@@ -348,7 +375,9 @@
 		<ruleImg>td[bgcolor=#E8E8D7]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="福建日报" startUrl="http://fjrb.fjsen.com/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -398,7 +427,9 @@
 	</class>
 	-->
 	<class>
+		<!--
 		<newspaper name="甘肃日报" startUrl="http://epaper.gansudaily.com.cn/gsrb/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -422,7 +453,9 @@
 		<ruleImg>table[bgcolor=#efefef]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="广西日报" startUrl="http://paper.chinaso.com/gxrb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -446,7 +479,9 @@
 		<ruleImg>div[class=lh28]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="广州日报" startUrl="http://gzdaily.dayoo.com/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">div[id=all_article_list]</pageEle>
 			<pageEles>h4[id]</pageEles>
@@ -470,8 +505,10 @@
 		<ruleImg>div[id=leftMedia]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="贵阳日报" startUrl="http://epaper.gywb.cn/gyrb/" encode="UTF-8"/>
 		<newspaper name="贵阳晚报" startUrl="http://epaper.gywb.cn/gywb/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -495,7 +532,9 @@
 		<ruleImg>div[class=epaper_pic]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="贵州日报" startUrl="http://58.42.249.98/epaper/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[target=_blank]</pageEles>
@@ -519,7 +558,9 @@
 		<ruleImg>td[bgcolor=#E8E8D7]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="哈尔滨日报" startUrl="http://hb.my399.com/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -543,10 +584,12 @@
 		<ruleImg>table[bgcolor=#d8d9bd]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="海口晚报" startUrl="http://szb.hkwb.net/szb/" encode="UTF-8"/>
 		<newspaper name="郑州日报" startUrl="http://zzrb.zynews.com/" encode="UTF-8"/>
 		<newspaper name="郑州晚报" startUrl="http://zzwb.zynews.com/" encode="UTF-8">	
 		<newspaper name="现代快报" startUrl="http://paper.chinaso.com/xdkb.html" encode="UTF-8">	
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -570,7 +613,9 @@
 		<ruleImg>table[bgcolor=#d8d9bd]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="海南日报" startUrl="http://hnrb.hinews.cn/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -594,7 +639,9 @@
 		<ruleImg>a[class=pirobox_gall]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="海南特区报" startUrl="http://www.hntqb.com/hntqb/paperindex.htm" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">div[id=scrollLayer]</pageEle>
 			<pageEles>a[abs:href]</pageEles>
@@ -618,11 +665,13 @@
 		<ruleImg>table[bgcolor=#efefef]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="合肥晚报" startUrl="http://epaper.hf365.com/hfwb/" encode="UTF-8"/>
 		<newspaper name="青海日报" startUrl="http://epaper.tibet3.com/qhrb/" encode="UTF-8"/>
 		<newspaper name="新华日报" startUrl="http://paper.chinaso.com/xhrb.html" encode="UTF-8"/>
 		<newspaper name="新民晚报" startUrl="http://paper.chinaso.com/xinminwb.html" encode="UTF-8"/>
 		<newspaper name="西藏日报" startUrl="http://paper.chinaso.com/xzrb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -673,7 +722,9 @@
 	</class>
 	-->
 	<class>
+		<!--
 		<newspaper name="河南日报" startUrl="http://newpaper.dahe.cn/hnrb/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -697,12 +748,14 @@
 		<ruleImg>div[class=dContents]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="江西日报" startUrl="http://paper.chinaso.com/jxrb.html" encode="UTF-8"/>
 		<newspaper name="中国环境报" startUrl="http://paper.chinaso.com/zghjb.html" encode="UTF-8"/>
 		<newspaper name="石家庄日报" startUrl="http://sjzrb.sjzdaily.com.cn/" encode="UTF-8"/>
 		<newspaper name="呼和浩特日报" startUrl="http://szb.saibeinews.com/rb/page/node_2.htm" encode="UTF-8"/>
 		<newspaper name="呼和浩特晚报" startUrl="http://szb.saibeinews.com/wb/page/node_14.htm" encode="UTF-8"/>
 		<newspaper name="燕赵晚报" startUrl="http://yzwb.sjzdaily.com.cn/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -726,7 +779,9 @@
 		<ruleImg>table[bgcolor=#d8d9bd]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="华西都市报" startUrl="http://www.wccdaily.com.cn/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">div[id=content]</pageEle>
 			<pageEles>li[onclick]</pageEles>
@@ -777,8 +832,10 @@
 	</class>
 	-->
 	<class>
+		<!--
 		<newspaper name="现代金报" startUrl="http://dzb.jinbaonet.com/" encode="UTF-8"/>
 		<newspaper name="湖南日报" startUrl="http://epaper.voc.com.cn/hnrb/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -802,7 +859,9 @@
 		<ruleImg>table[bgcolor=#efefef]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="检察日报" startUrl="http://newspaper.jcrb.com/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -826,7 +885,9 @@
 		<ruleImg>table[style=WIDTH:159PX;]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="解放军报" startUrl="http://paper.chinaso.com/jfjb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -876,7 +937,9 @@
 	</class>
 	-->
 	<class>
+		<!--
 		<newspaper name="吉林日报" startUrl="http://paper.chinaso.com/jlrb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -926,7 +989,9 @@
 	</class>
 	-->
 	<class>
+		<!--
 		<newspaper name="京华时报" startUrl="http://paper.chinaso.com/jinghuashibao.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="false">dt[id]</pageEle>
 			<pageEles>a[href]</pageEles>
@@ -950,7 +1015,9 @@
 		<ruleImg>div[id=container]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="经济参考报" startUrl="http://paper.chinaso.com/jingjicankao.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -974,9 +1041,11 @@
 		<ruleImg>table[bgcolor=#efefef]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="今日早报" startUrl="http://jrzb.zjol.com.cn/" encode="UTF-8"/>
 		<newspaper name="钱江晚报" startUrl="http://paper.chinaso.com/qjwb.html" encode="UTF-8"/>
 		<newspaper name="浙江日报" startUrl="http://zjrb.zjol.com.cn/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1000,7 +1069,9 @@
 		<ruleImg>div[class=main_ar_pic_text]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="今晚报" startUrl="http://paper.chinaso.com/jwb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1024,7 +1095,9 @@
 		<ruleImg>div[id=m_2_4]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="科技日报" startUrl="http://digitalpaper.stdaily.com/http_www.kjrb.com/kjrb/paperindex.htm" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1048,7 +1121,9 @@
 		<ruleImg>div[class=picture]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="昆明日报" startUrl="http://daily.clzg.cn/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1072,8 +1147,10 @@
 		<ruleImg>div[id=content_content]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="兰州日报" startUrl="http://rb.lzbs.com.cn/" encode="UTF-8"/>
 		<newspaper name="兰州晚报" startUrl="http://wb.lzbs.com.cn/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">table[background]</pageEle>
 			<pageEles>a[class=bmtext]</pageEles>
@@ -1097,8 +1174,10 @@
 		<ruleImg>span[class=zoomtext]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="南昌日报" startUrl="http://www.ncrbw.cn/index.htm" encode="UTF-8"/>
 		<newspaper name="南昌晚报" startUrl="http://www.ncwbw.cn/index.htm" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1122,7 +1201,9 @@
 		<ruleImg>table[bgcolor=#efefef]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="南方日报" startUrl="http://paper.chinaso.com/nfrb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1146,7 +1227,9 @@
 		<ruleImg>div[id=article]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="南京日报" startUrl="http://njrb.njdaily.cn/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1170,7 +1253,9 @@
 		<ruleImg>dl[class=content_pic]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="内蒙古日报" startUrl="http://paper.chinaso.com/nmgrb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1194,7 +1279,9 @@
 		<ruleImg>table[bgcolor=#efefef]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="宁波日报" startUrl="http://daily.cnnb.com.cn/nbrb/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1218,7 +1305,9 @@
 		<ruleImg>td[class=content_tt]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="宁夏日报" startUrl="http://paper.chinaso.com/nxrb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1242,7 +1331,9 @@
 		<ruleImg>table[bgcolor=#DFDFDF]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="齐鲁晚报" startUrl="http://epaper.qlwb.com.cn/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">div[class=newlb]</pageEle>
 			<pageEles>a[href]</pageEles>
@@ -1266,8 +1357,10 @@
 		<ruleImg>span[id=contenttext]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="人民法院报" startUrl="http://rmfyb.chinacourt.org/paper/" encode="UTF-8"/>
 		<newspaper name="深圳特区报" startUrl="http://sztqb.sznews.com/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1291,7 +1384,9 @@
 		<ruleImg>div[id=ozoom]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="人民邮电报" startUrl="http://paper.chinaso.com/rmydb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">div[class=con004]</pageEle>
 			<pageEles>a[href]</pageEles>
@@ -1315,7 +1410,9 @@
 		<ruleImg>h5</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="人民政协报" startUrl="http://paper.chinaso.com/rmzx.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[class=banzi_info]</pageEles>
@@ -1366,8 +1463,10 @@
 	</class>
 	-->
 	<class>
+		<!--
 		<newspaper name="沈阳日报" startUrl="http://epaper.syd.com.cn/syrb/paperindex.htm" encode="UTF-8"/>
 		<newspaper name="沈阳晚报" startUrl="http://epaper.syd.com.cn/sywb/paperindex.htm" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1391,7 +1490,9 @@
 		<ruleImg>table[bgcolor=#ffffff]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="四川日报" startUrl="http://epaper.scdaily.cn/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">ul[class=listLM]</pageEle>
 			<pageEles>a[href]</pageEles>
@@ -1415,9 +1516,11 @@
 		<ruleImg>div[id=frameContent]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="西安日报" startUrl="http://epaper.xiancn.com/xarb/" encode="UTF-8"/>
 		<newspaper name="西安晚报" startUrl="http://epaper.xiancn.com/xawb/" encode="UTF-8"/>
 		<newspaper name="成都晚报" startUrl="http://www.cdwb.com.cn/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1441,7 +1544,9 @@
 		<ruleImg>table[bgcolor=#efefef]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="新华每日电讯" startUrl="http://paper.chinaso.com/xhmrdx.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="false">td[bgcolor=#ebebeb]</pageEle>
 			<pageEles>a[class=atitle]</pageEles>
@@ -1465,7 +1570,9 @@
 		<ruleImg>TD[bgColor=#f7f7f7]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="西宁晚报" startUrl="http://www.xnwbw.com/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">div[id=bmdh]</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1489,7 +1596,9 @@
 		<ruleImg>td[class=font6]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="新京报" startUrl="http://paper.chinaso.com/xinjingbao.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1513,7 +1622,9 @@
 		<ruleImg>table[bgcolor=#efefef]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="羊城晚报" startUrl="http://paper.chinaso.com/ycwb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1537,8 +1648,10 @@
 		<ruleImg>founder-content</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="扬子晚报" startUrl="http://epaper.yzwb.net/paperindex.htm" encode="UTF-8"/>
 		<newspaper name="云南日报" startUrl="http://paper.chinaso.com/ynrb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1562,7 +1675,9 @@
 		<ruleImg>table[bgcolor=#efefef]</ruleImg>
 	</class>
 	<class>
+		<!--
 		<newspaper name="银川晚报" startUrl="http://szb.ycen.com.cn/" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>
@@ -1612,7 +1727,9 @@
 	</class>
 	-->
 	<class>		
+		<!--
 		<newspaper name="中国教育报" startUrl="http://paper.chinaso.com/zgjyb.html" encode="UTF-8"/>
+		-->
 		<rulePage>
 			<pageEle node="true">body</pageEle>
 			<pageEles>a[id=pageLink]</pageEles>

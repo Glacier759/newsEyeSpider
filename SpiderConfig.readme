@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<SpiderConfig>
+	<class> <!--表示一类报刊的过滤规则，其下可有多家报刊-->
+		<newspaper name="报刊名称1" startUrl="起始页面1" encode="UTF-8"/> <!--该标签表明报刊名称、起始页面与页面编码-->
+		<newspaper name="报刊名称2" startUrl="起始页面2" encode="UTF-8"/> <!--实现中已经解决部分起始页面跳转问题-->
+		<newspaper name="报刊名称n" startUrl="起始页面n" encode="UTF-8"/> <!--默认页面编码为UTF8　个别网站存在乱码指定为GBK即可-->
+		<rulePage>	<!--获取版面信息过滤规则-->
+			<pageEle node="true">body</pageEle>	<!--获取版面信息所在的外层标签-->
+			<!--node=true表示获取结果为一个标签,node=false表示获取结果为一组标签-->
+			<pageEles>a[id=pageLink]</pageEles> <!--获取版面信息所在的一组标签-->
+			<eleAttr contains="node">abs:href</eleAttr> <!--标识版面链接所在标签的哪个属性-->
+			<!--contains为可缺省属性　其表示获取的链接必须包含的子串-->
+			<subString>23,38</subString>　<!--可缺省标签　表示只获取版面信息的指定位置的子串-->
+		</rulePage>
+		<ruleSource> <!--新闻链接的过滤规则-->
+			<sourceEle>map</sourceEle>　<!--新闻链接所包含在的外层标签-->
+			<sourceEles>area</sourceEles> <!--新闻链接所在的一组标签-->
+		</ruleSource>
+		<ruleTitle> <!--新闻标题的过滤规则-->
+			<titleEle>body</titleEle> <!--新闻标题所包含在的外层标签-->
+			<titleTag>h1</titleTag> <!--新闻标题所在的标签，默认获取标签的正文内容-->
+		</ruleTitle>
+		<rulePublishDate url="true">xxxx-xx/xx</rulePublishDate> <!--说明新闻发布时间的组织形式-->
+		<!--目前提供4中形式(xxxx-xx/xx、xxxxxxxx、xxxx年xx月xx日、xxxx-xx-xx)-->
+		<!--url属性可缺省，说明时间信息是否来自新闻所在页面的url,默认为true,指定为false时必须包含publishEle标签-->
+		<publishEle ele="meta[name=date]">content</publishEle> <!--当时间信息并非来自url时我们认为其来自与网页信息-->
+		<!--该标签可缺省-->>
+		<!--ele属性表示时间信息所在的标签,正文标识索要获得的属性值-->
+		<ruleBody> <!--新闻正文部分的过滤规则-->
+			<bodyEle>div[id=articleContent]</bodyEle> <!--正文部分所包含在的外层标签-->
+			<bodyEles>p</bodyEles>　<!--需要提取正文部分的哪种标签，默认会获取该种标签下的所有正文内容-->
+			<regex></regex>　<!--用于处理获取到的文本中的特殊字符，这里为需要替换的字符/字符串-->
+			<replacement></replacement> <!--这里为替换后的字符串-->
+		</ruleBody>
+		<ruleImg>div[class=text_c]</ruleImg> <!--新闻种所包含图片的外层标签，城旭辉获取其下所有的img标签内容-->
+	</class>
+</SpiderConfig>
