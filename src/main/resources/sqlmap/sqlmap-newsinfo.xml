@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.xiyoulinux.newseye.mysqloperation.MysqlOperation">
+    <resultMap id="newsMap" type="NewsInfo">
+        <result column="title" property="title" />
+        <result column="url" property="url" />
+        <result column="newspaper" property="newspaper" />
+        <result column="page" property="page" />
+        <result column="publish_date" property="publish_date" />
+        <result column="crawl_date" property="crawl_date" />
+        <result column="body" property="body" />
+        <result column="news_id" property="news_id" />
+    </resultMap>
+    <sql id="newsinfoAll">
+        title,
+        url,
+        newspaper,
+        page,
+        publish_date,
+        crawl_date,
+        body
+        news_id
+    </sql>
+
+	<insert id="insertNewsInfo" parameterType="NewsInfo" useGeneratedKeys="true" keyProperty="id">
+		INSERT INTO news
+		(title, url, newspaper, page, publish_date, crawl_date, body, news_id)
+        VALUES
+		(#{title},#{url},#{newspaper},#{page},#{publish_date},#{crawl_date},#{body},#{news_id})
+    </insert>
+	<select id="selectNewsInfoID" parameterType="Integer" resultType="NewsInfo">
+		SELECT *
+		FROM news
+		WHERE news.id = #{id}
+	</select>
+	<select id="selectIsExist" parameterType="NewsInfo" resultType="java.lang.Integer">
+		SELECT
+		count(*)
+		FROM news
+		WHERE title = #{title}
+		AND url = #{url}
+		AND newspaper = #{newspaper}
+	</select>
+	<select id="selectWireCopy" parameterType="String" resultType="java.lang.Integer">
+		SELECT id FROM wire_copy WHERE title = #{title}
+	</select>
+	<update id="updateWireCopy" parameterType="int">
+		UPDATE wire_copy SET count = count + 1
+		WHERE id = #{id}
+	</update>
+
+</mapper>

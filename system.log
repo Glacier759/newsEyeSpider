@@ -1,36 +1,859 @@
-2014-09-26 14:20:45,182 [main] INFO - trueLink = http://epaper.cnautonews.com/zgqcb/html/2014-09/15/node_2.htm
-2014-09-26 14:20:46,650 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18489.htm
-2014-09-26 14:20:46,788 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18490.htm
-2014-09-26 14:20:46,906 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18491.htm
-2014-09-26 14:20:47,171 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18517.htm
-2014-09-26 14:20:47,465 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18518.htm
-2014-09-26 14:23:10,126 [main] INFO - trueLink = http://epaper.cnautonews.com/zgqcb/html/2014-09/15/node_2.htm
-2014-09-26 14:23:10,788 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18489.htm
-2014-09-26 14:23:11,350 [main] INFO - 成功获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18489.htm
-2014-09-26 14:23:11,351 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18490.htm
-2014-09-26 14:23:11,462 [main] INFO - 成功获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18490.htm
-2014-09-26 14:23:11,463 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18491.htm
-2014-09-26 14:23:11,548 [main] INFO - 成功获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18491.htm
-2014-09-26 14:23:11,776 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18517.htm
-2014-09-26 14:23:11,873 [main] INFO - 成功获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18517.htm
-2014-09-26 14:23:12,132 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18518.htm
-2014-09-26 14:23:12,304 [main] INFO - 成功获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18518.htm
-2014-09-26 14:23:12,473 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18492.htm
-2014-09-26 14:23:12,561 [main] INFO - 成功获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18492.htm
-2014-09-26 14:23:12,561 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18493.htm
-2014-09-26 14:23:12,638 [main] INFO - 成功获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18493.htm
-2014-09-26 14:23:12,639 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18494.htm
-2014-09-26 14:23:12,724 [main] INFO - 成功获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18494.htm
-2014-09-26 14:23:12,724 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18495.htm
-2014-09-26 14:23:12,852 [main] INFO - 成功获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18495.htm
-2014-09-26 14:23:12,852 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18496.htm
-2014-09-26 14:23:13,029 [main] INFO - 成功获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18496.htm
-2014-09-26 14:23:13,029 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18497.htm
-2014-09-26 14:23:13,244 [main] INFO - 成功获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18497.htm
-2014-09-26 14:23:13,244 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18498.htm
-2014-09-26 14:23:13,321 [main] INFO - 成功获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18498.htm
-2014-09-26 14:23:13,321 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18499.htm
-2014-09-26 14:23:13,410 [main] INFO - 成功获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18499.htm
-2014-09-26 14:23:13,988 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18563.htm
-2014-09-26 14:23:14,115 [main] INFO - 成功获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18563.htm
-2014-09-26 14:23:14,335 [main] INFO - 即将获取 http://epaper.cnautonews.com/zgqcb/html/2014-09/15/content_18564.htm
+2014-09-26 19:29:18,595 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 19:29:18,656 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:29:18,656 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:29:18,656 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:29:18,656 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:29:18,738 [main] DEBUG - Openning JDBC Connection
+2014-09-26 19:29:19,066 [main] DEBUG - Created connection 1458849419.
+2014-09-26 19:29:19,068 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@56f4468b]
+2014-09-26 19:29:19,069 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE newspaper = '光明日报' 
+2014-09-26 19:29:19,112 [main] DEBUG - ==> Parameters: 
+2014-09-26 19:30:20,813 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 19:30:20,899 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:30:20,899 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:30:20,899 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:30:20,899 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:30:35,052 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 19:30:35,154 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:30:35,155 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:30:35,155 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:30:35,155 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:33:34,568 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 19:33:35,987 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:33:35,987 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:33:35,987 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:33:35,987 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:33:36,639 [main] DEBUG - Openning JDBC Connection
+2014-09-26 19:33:39,705 [main] DEBUG - Created connection 1458849419.
+2014-09-26 19:33:39,728 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@56f4468b]
+2014-09-26 19:33:39,728 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE newspaper = '光明日报' 
+2014-09-26 19:33:39,789 [main] DEBUG - ==> Parameters: 
+2014-09-26 19:34:43,535 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 19:34:43,803 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:34:43,803 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:34:43,803 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:34:43,804 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:36:55,329 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 19:36:55,796 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:36:55,796 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:36:55,796 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:36:55,796 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:36:56,080 [main] DEBUG - Openning JDBC Connection
+2014-09-26 19:36:57,060 [main] DEBUG - Created connection 1458849419.
+2014-09-26 19:36:57,062 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@56f4468b]
+2014-09-26 19:36:57,062 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE newspaper = '光明日报' 
+2014-09-26 19:36:57,126 [main] DEBUG - ==> Parameters: 
+2014-09-26 19:37:31,016 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 19:37:31,131 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:37:31,131 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:37:31,131 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:37:31,131 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:37:31,344 [main] DEBUG - Openning JDBC Connection
+2014-09-26 19:37:31,883 [main] DEBUG - Created connection 57494364.
+2014-09-26 19:37:31,886 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@36d4b5c]
+2014-09-26 19:37:31,886 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE newspaper = ? 
+2014-09-26 19:37:31,952 [main] DEBUG - ==> Parameters: 光明日报(String)
+2014-09-26 19:38:33,563 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 19:38:33,684 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:38:33,684 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:38:33,684 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:38:33,684 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:38:33,820 [main] DEBUG - Openning JDBC Connection
+2014-09-26 19:38:34,333 [main] DEBUG - Created connection 57494364.
+2014-09-26 19:38:34,335 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@36d4b5c]
+2014-09-26 19:38:34,335 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE newspaper = ? 
+2014-09-26 19:38:34,405 [main] DEBUG - ==> Parameters: 光明日报(String)
+2014-09-26 19:39:47,972 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 19:39:48,064 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:39:48,064 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:39:48,064 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:39:48,064 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:39:48,174 [main] DEBUG - Openning JDBC Connection
+2014-09-26 19:39:48,508 [main] DEBUG - Created connection 57494364.
+2014-09-26 19:39:48,511 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@36d4b5c]
+2014-09-26 19:39:48,512 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE newspaper = ? 
+2014-09-26 19:39:48,584 [main] DEBUG - ==> Parameters: 光明日报(String)
+2014-09-26 19:43:38,226 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 19:43:38,332 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:43:38,333 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:43:38,333 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:43:38,333 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:43:38,518 [main] DEBUG - Openning JDBC Connection
+2014-09-26 19:43:38,939 [main] DEBUG - Created connection 57494364.
+2014-09-26 19:43:38,941 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@36d4b5c]
+2014-09-26 19:43:38,941 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE url = ? 
+2014-09-26 19:43:38,993 [main] DEBUG - ==> Parameters: http://epaper.gmw.cn/gmrb/html/2014-09/18/nw.D110000gmrb_20140918_1-02.htm(String)
+2014-09-26 19:44:19,784 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 19:44:19,857 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:44:19,857 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:44:19,857 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:44:19,857 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:44:19,971 [main] DEBUG - Openning JDBC Connection
+2014-09-26 19:44:20,294 [main] DEBUG - Created connection 57494364.
+2014-09-26 19:44:20,296 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@36d4b5c]
+2014-09-26 19:44:20,297 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE newspaper = ? 
+2014-09-26 19:44:20,360 [main] DEBUG - ==> Parameters: 光明日报(String)
+2014-09-26 19:49:00,256 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 19:49:00,337 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:49:00,337 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:49:00,338 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:49:00,338 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:49:00,499 [main] DEBUG - Openning JDBC Connection
+2014-09-26 19:49:00,821 [main] DEBUG - Created connection 1345636186.
+2014-09-26 19:49:00,823 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@5034c75a]
+2014-09-26 19:49:00,824 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE newspaper = ? 
+2014-09-26 19:49:00,885 [main] DEBUG - ==> Parameters: 光明日报(String)
+2014-09-26 19:53:55,998 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 19:53:56,069 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:53:56,070 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:53:56,070 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:53:56,070 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:53:56,183 [main] DEBUG - Openning JDBC Connection
+2014-09-26 19:53:56,530 [main] DEBUG - Created connection 1345636186.
+2014-09-26 19:53:56,533 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@5034c75a]
+2014-09-26 19:53:56,533 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE newspaper = ? 
+2014-09-26 19:53:56,581 [main] DEBUG - ==> Parameters: 光明日报(String)
+2014-09-26 19:58:56,532 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 19:58:56,605 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:58:56,606 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:58:56,606 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 19:58:56,606 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:00:29,182 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:00:29,249 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:00:29,249 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:00:29,249 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:00:29,249 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:01:49,883 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:01:49,954 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:01:49,954 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:01:49,954 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:01:49,954 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:01:58,099 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:01:58,173 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:01:58,173 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:01:58,173 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:01:58,174 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:02:26,009 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:02:26,095 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:02:26,095 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:02:26,095 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:02:26,095 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:04:33,600 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:04:33,680 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:04:33,680 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:04:33,680 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:04:33,681 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:05:59,719 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:05:59,777 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:05:59,777 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:05:59,777 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:05:59,777 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:06:15,910 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:06:15,975 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:06:15,975 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:06:15,976 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:06:15,976 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:07:19,663 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:07:19,729 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:07:19,729 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:07:19,729 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:07:19,729 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:07:47,554 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:07:47,621 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:07:47,622 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:07:47,622 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:07:47,622 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:07:47,769 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:07:48,115 [main] DEBUG - Created connection 731395981.
+2014-09-26 20:07:48,117 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@2b98378d]
+2014-09-26 20:07:48,118 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE newspaper = ? 
+2014-09-26 20:07:48,167 [main] DEBUG - ==> Parameters: 光明日报(String)
+2014-09-26 20:08:40,348 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:08:40,417 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:08:40,417 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:08:40,417 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:08:40,417 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:08:40,531 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:08:40,918 [main] DEBUG - Created connection 650023597.
+2014-09-26 20:08:40,920 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@26be92ad]
+2014-09-26 20:08:40,920 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE url = ? 
+2014-09-26 20:08:40,972 [main] DEBUG - ==> Parameters: http://epaper.gmw.cn/gmrb/html/2014-09/18/nw.D110000gmrb_20140918_1-02.htm(String)
+2014-09-26 20:09:11,456 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:09:11,519 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:09:11,519 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:09:11,520 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:09:11,520 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:09:11,623 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:09:11,955 [main] DEBUG - Created connection 650023597.
+2014-09-26 20:09:11,957 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@26be92ad]
+2014-09-26 20:09:11,958 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE url = ? AND page = ? 
+2014-09-26 20:09:12,002 [main] DEBUG - ==> Parameters: http://epaper.gmw.cn/gmrb/html/2014-09/18/nw.D110000gmrb_20140918_1-02.htm(String), 第02版：要闻(String)
+2014-09-26 20:10:26,535 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:10:26,630 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:10:26,630 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:10:26,630 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:10:26,631 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:11:45,994 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:11:46,103 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:11:46,104 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:11:46,104 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:11:46,104 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:11:46,258 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:11:46,670 [main] DEBUG - Created connection 650023597.
+2014-09-26 20:11:46,673 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@26be92ad]
+2014-09-26 20:11:46,673 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE url = ? AND page = ? 
+2014-09-26 20:11:46,734 [main] DEBUG - ==> Parameters: http://epaper.gmw.cn/gmrb/html/2014-09/18/nw.D110000gmrb_20140918_1-02.htm(String), 第02版：要闻(String)
+2014-09-26 20:11:46,774 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@26be92ad]
+2014-09-26 20:11:46,774 [main] DEBUG - ==>  Preparing: SELECT id, id, news_id, title, url, newspaper, page, publish_date, crawl_date, body FROM news WHERE id = ? 
+2014-09-26 20:11:46,775 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 20:13:25,744 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:13:25,802 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:13:25,803 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:13:25,803 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:13:25,803 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:13:25,897 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:13:26,278 [main] DEBUG - Created connection 650023597.
+2014-09-26 20:13:26,280 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@26be92ad]
+2014-09-26 20:13:26,281 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE page = ? 
+2014-09-26 20:13:26,326 [main] DEBUG - ==> Parameters: 第02版：要闻(String)
+2014-09-26 20:13:26,359 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@26be92ad]
+2014-09-26 20:13:26,359 [main] DEBUG - ==>  Preparing: SELECT id, id, news_id, title, url, newspaper, page, publish_date, crawl_date, body FROM news WHERE id = ? 
+2014-09-26 20:13:26,360 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 20:13:53,047 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:13:53,107 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:13:53,107 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:13:53,107 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:13:53,107 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:13:53,204 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:13:53,525 [main] DEBUG - Created connection 1282473384.
+2014-09-26 20:13:53,527 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:13:53,527 [main] DEBUG - ==>  Preparing: SELECT id, id, news_id, title, url, newspaper, page, publish_date, crawl_date, body FROM news WHERE id = ? 
+2014-09-26 20:13:53,572 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 20:13:53,627 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:13:53,628 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE page = ? 
+2014-09-26 20:13:53,628 [main] DEBUG - ==> Parameters: 第02版：要闻(String)
+2014-09-26 20:15:36,219 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:15:36,298 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:15:36,298 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:15:36,298 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:15:36,298 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:15:36,415 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:15:36,732 [main] DEBUG - Created connection 1282473384.
+2014-09-26 20:15:36,735 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:15:36,735 [main] DEBUG - ==>  Preparing: SELECT id, id, news_id, title, url, newspaper, page, publish_date, crawl_date, body FROM news WHERE id = ? 
+2014-09-26 20:15:36,786 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 20:15:36,825 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:15:36,825 [main] DEBUG - ==>  Preparing: INSERT INTO news( id, news_id, title, url, newspaper, page, publish_date, crawl_date, body ) VALUES (#id#,#new_id#,#title#,#url#,#newspaper#,#page#,#publish_date#,#crawl_date#,#body#) 
+2014-09-26 20:15:36,827 [main] DEBUG - ==> Parameters: 
+2014-09-26 20:16:23,875 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:16:23,942 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:16:23,943 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:16:23,943 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:16:23,943 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:16:24,051 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:16:24,400 [main] DEBUG - Created connection 1282473384.
+2014-09-26 20:16:24,402 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:16:24,403 [main] DEBUG - ==>  Preparing: SELECT id, news_id, title, url, newspaper, page, publish_date, crawl_date, body FROM news WHERE id = ? 
+2014-09-26 20:16:24,452 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 20:16:24,491 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:16:24,492 [main] DEBUG - ==>  Preparing: INSERT INTO news( news_id, title, url, newspaper, page, publish_date, crawl_date, body ) VALUES (#id#,#new_id#,#title#,#url#,#newspaper#,#page#,#publish_date#,#crawl_date#,#body#) 
+2014-09-26 20:16:24,493 [main] DEBUG - ==> Parameters: 
+2014-09-26 20:18:08,130 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:18:08,200 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:18:08,200 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:18:08,200 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:18:08,200 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:18:08,309 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:18:08,625 [main] DEBUG - Created connection 1282473384.
+2014-09-26 20:18:08,627 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:18:08,627 [main] DEBUG - ==>  Preparing: SELECT id, news_id, title, url, newspaper, page, publish_date, crawl_date, body FROM news WHERE id = ? 
+2014-09-26 20:18:08,675 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 20:18:08,714 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:18:08,714 [main] DEBUG - ==>  Preparing: INSERT INTO news( news_id, title, url, newspaper, page, publish_date, crawl_date, body ) VALUES (#id#,#new_id#,#title#,#url#,#newspaper#,#page#,#publish_date#,#crawl_date#,#body#) 
+2014-09-26 20:18:08,716 [main] DEBUG - ==> Parameters: 
+2014-09-26 20:18:26,938 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:18:26,994 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:18:26,994 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:18:26,994 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:18:26,994 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:18:27,095 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:18:27,391 [main] DEBUG - Created connection 1282473384.
+2014-09-26 20:18:27,394 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:18:27,394 [main] DEBUG - ==>  Preparing: SELECT id, news_id, title, url, newspaper, page, publish_date, crawl_date, body FROM news WHERE id = ? 
+2014-09-26 20:18:27,441 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 20:18:27,478 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:18:27,478 [main] DEBUG - ==>  Preparing: INSERT INTO news( news_id, title, url, newspaper, page, publish_date, crawl_date, body ) VALUES (?, ?, ?, ?, ?, ?, ?, ?) 
+2014-09-26 20:18:27,543 [main] DEBUG - ==> Parameters: 70(Integer), 习近平会见斯里兰卡总理贾亚拉特纳(String), http://epaper.gmw.cn/gmrb/html/2014-09/18/nw.D110000gmrb_20140918_1-02.htm(String), 光明日报(String), 第02版：要闻(String), 2014-09-18(Date), 2014-09-19(Date), 
+    本报科伦坡9月17日电（记者汤先营）国家主席习近平17日在科伦坡会见斯里兰卡总理贾亚拉特纳。
+
+    习近平赞赏贾亚拉特纳长期致力于推动中斯关系发展，是中斯友谊的见证者和推动者。习近平指出，昨天我同拉贾帕克萨总统进行了富有成果的会谈，就深化双边关系达成广泛共识，对中斯关系未来发展作出规划，双方要扎扎实实推进，一件一件落实。双方要加快推进中斯自由贸易谈判，稳步推进汉班托塔港等大项目合作，拓展旅游、海洋科研、海洋经济、港口建设、海上安全等领域合作，共同推进21世纪海上丝绸之路建设，加强旅游合作，促进两国人员交往。双方要加强多边领域合作，中方欢迎斯方作为创始成员国参与筹建亚洲基础设施投资银行。
+
+    贾亚拉特纳表示，我曾数次访华，见过毛泽东主席等中国老一辈领导人，对中国怀有深厚的感情。斯里兰卡人民感谢中国提供的宝贵支持和帮助。我们愿意学习借鉴中国的成功经验，积极参与21世纪海上丝绸之路建设，携手共同发展。
+
+    王沪宁、栗战书、杨洁篪参加会见。
+
+(String)
+2014-09-26 20:18:27,646 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:18:27,647 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE page = ? 
+2014-09-26 20:18:27,647 [main] DEBUG - ==> Parameters: 第02版：要闻(String)
+2014-09-26 20:39:59,685 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:39:59,826 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:39:59,826 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:39:59,826 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:39:59,826 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:40:00,008 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:40:00,508 [main] DEBUG - Created connection 1282473384.
+2014-09-26 20:40:00,516 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:40:00,517 [main] DEBUG - ==>  Preparing: SELECT id, news_id, title, url, newspaper, page, publish_date, crawl_date, body FROM news WHERE id = ? 
+2014-09-26 20:40:00,597 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 20:40:00,655 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:40:00,655 [main] DEBUG - ==>  Preparing: INSERT INTO news( news_id, title, url, newspaper, page, publish_date, crawl_date, body ) VALUES (?, ?, ?, ?, ?, ?, ?, ?) 
+2014-09-26 20:40:00,710 [main] DEBUG - ==> Parameters: 70(Integer), 习近平会见斯里兰卡总理贾亚拉特纳(String), http://epaper.gmw.cn/gmrb/html/2014-09/18/nw.D110000gmrb_20140918_1-02.htm(String), 光明日报(String), 第02版：要闻(String), 2014-09-18(Date), 2014-09-19(Date), 
+    本报科伦坡9月17日电（记者汤先营）国家主席习近平17日在科伦坡会见斯里兰卡总理贾亚拉特纳。
+
+    习近平赞赏贾亚拉特纳长期致力于推动中斯关系发展，是中斯友谊的见证者和推动者。习近平指出，昨天我同拉贾帕克萨总统进行了富有成果的会谈，就深化双边关系达成广泛共识，对中斯关系未来发展作出规划，双方要扎扎实实推进，一件一件落实。双方要加快推进中斯自由贸易谈判，稳步推进汉班托塔港等大项目合作，拓展旅游、海洋科研、海洋经济、港口建设、海上安全等领域合作，共同推进21世纪海上丝绸之路建设，加强旅游合作，促进两国人员交往。双方要加强多边领域合作，中方欢迎斯方作为创始成员国参与筹建亚洲基础设施投资银行。
+
+    贾亚拉特纳表示，我曾数次访华，见过毛泽东主席等中国老一辈领导人，对中国怀有深厚的感情。斯里兰卡人民感谢中国提供的宝贵支持和帮助。我们愿意学习借鉴中国的成功经验，积极参与21世纪海上丝绸之路建设，携手共同发展。
+
+    王沪宁、栗战书、杨洁篪参加会见。
+
+(String)
+2014-09-26 20:40:00,742 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:40:00,743 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE page = ? 
+2014-09-26 20:40:00,744 [main] DEBUG - ==> Parameters: 第02版：要闻(String)
+2014-09-26 20:40:37,276 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:40:37,391 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:40:37,391 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:40:37,391 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:40:37,391 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:40:37,529 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:40:37,966 [main] DEBUG - Created connection 1282473384.
+2014-09-26 20:40:37,974 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:40:37,974 [main] DEBUG - ==>  Preparing: SELECT id, news_id, title, url, newspaper, page, publish_date, crawl_date, body FROM news WHERE id = ? 
+2014-09-26 20:40:38,037 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 20:40:38,094 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:40:38,094 [main] DEBUG - ==>  Preparing: INSERT INTO news( news_id, title, url, newspaper, page, publish_date, crawl_date, body ) VALUES (?, ?, ?, ?, ?, ?, ?, ?) 
+2014-09-26 20:40:38,109 [main] DEBUG - ==> Parameters: 70(Integer), 习近平会见斯里兰卡总理贾亚拉特纳(String), http://epaper.gmw.cn/gmrb/html/2014-09/18/nw.D110000gmrb_20140918_1-02.htm(String), 光明日报(String), 第02版：要闻(String), 2014-09-18(Date), 2014-09-19(Date), 
+    本报科伦坡9月17日电（记者汤先营）国家主席习近平17日在科伦坡会见斯里兰卡总理贾亚拉特纳。
+
+    习近平赞赏贾亚拉特纳长期致力于推动中斯关系发展，是中斯友谊的见证者和推动者。习近平指出，昨天我同拉贾帕克萨总统进行了富有成果的会谈，就深化双边关系达成广泛共识，对中斯关系未来发展作出规划，双方要扎扎实实推进，一件一件落实。双方要加快推进中斯自由贸易谈判，稳步推进汉班托塔港等大项目合作，拓展旅游、海洋科研、海洋经济、港口建设、海上安全等领域合作，共同推进21世纪海上丝绸之路建设，加强旅游合作，促进两国人员交往。双方要加强多边领域合作，中方欢迎斯方作为创始成员国参与筹建亚洲基础设施投资银行。
+
+    贾亚拉特纳表示，我曾数次访华，见过毛泽东主席等中国老一辈领导人，对中国怀有深厚的感情。斯里兰卡人民感谢中国提供的宝贵支持和帮助。我们愿意学习借鉴中国的成功经验，积极参与21世纪海上丝绸之路建设，携手共同发展。
+
+    王沪宁、栗战书、杨洁篪参加会见。
+
+(String)
+2014-09-26 20:40:38,110 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:40:38,110 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE page = ? 
+2014-09-26 20:40:38,111 [main] DEBUG - ==> Parameters: 第02版：要闻(String)
+2014-09-26 20:43:12,651 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:43:12,748 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:43:12,748 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:43:12,749 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:43:12,749 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:43:12,916 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:43:13,342 [main] DEBUG - Created connection 1282473384.
+2014-09-26 20:43:13,345 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:43:13,345 [main] DEBUG - ==>  Preparing: SELECT id, title, url, newspaper, page, publish_date, crawl_date, body news_id, FROM news WHERE id = ? 
+2014-09-26 20:43:13,427 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 20:44:40,186 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:44:40,284 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:44:40,284 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:44:40,285 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:44:40,285 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:44:40,443 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:44:40,864 [main] DEBUG - Created connection 1282473384.
+2014-09-26 20:44:40,866 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:44:40,867 [main] DEBUG - ==>  Preparing: SELECT title, url, newspaper, page, publish_date, crawl_date, body news_id FROM news WHERE id = ? 
+2014-09-26 20:44:40,919 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 20:46:11,540 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:46:11,617 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:46:11,617 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:46:11,617 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:46:11,618 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:46:11,719 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:46:12,055 [main] DEBUG - Created connection 1282473384.
+2014-09-26 20:46:12,058 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:46:12,058 [main] DEBUG - ==>  Preparing: SELECT title, url, newspaper, page, publish_date, crawl_date, body news_id FROM news WHERE id = ? 
+2014-09-26 20:46:12,110 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 20:47:20,923 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:47:20,985 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:47:20,986 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:47:20,986 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:47:20,986 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:47:21,078 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:47:21,411 [main] DEBUG - Created connection 1282473384.
+2014-09-26 20:47:21,417 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:47:21,417 [main] DEBUG - ==>  Preparing: SELECT title, url, newspaper, page, publish_date, crawl_date, body news_id FROM news WHERE news.id = ? 
+2014-09-26 20:47:21,462 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 20:49:50,785 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:49:50,848 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:49:50,849 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:49:50,849 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:49:50,849 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:49:50,961 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:49:51,288 [main] DEBUG - Created connection 1282473384.
+2014-09-26 20:49:51,291 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:49:51,291 [main] DEBUG - ==>  Preparing: SELECT title, url, newspaper, page, publish_date, crawl_date, body news_id FROM news WHERE news.id = ? 
+2014-09-26 20:49:51,336 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 20:53:03,848 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:53:03,910 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:53:03,910 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:53:03,910 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:53:03,910 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:53:04,024 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:53:04,348 [main] DEBUG - Created connection 1282473384.
+2014-09-26 20:53:04,350 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:53:04,351 [main] DEBUG - ==>  Preparing: SELECT title, url, newspaper, page, publish_date, crawl_date, body news_id FROM news WHERE news.id = ? 
+2014-09-26 20:53:04,423 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 20:55:07,700 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:55:07,761 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:55:07,761 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:55:07,761 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:55:07,761 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:55:07,874 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:55:08,203 [main] DEBUG - Created connection 1282473384.
+2014-09-26 20:55:08,206 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 20:55:08,206 [main] DEBUG - ==>  Preparing: SELECT title, url, newspaper, page, publish_date, crawl_date, body news_id FROM news WHERE news.id = ? 
+2014-09-26 20:55:08,256 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 20:56:47,586 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 20:56:47,677 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:56:47,677 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:56:47,677 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:56:47,677 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 20:56:47,830 [main] DEBUG - Openning JDBC Connection
+2014-09-26 20:56:48,289 [main] DEBUG - Created connection 415138788.
+2014-09-26 20:56:48,292 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@18be83e4]
+2014-09-26 20:56:48,293 [main] DEBUG - ==>  Preparing: INSERT INTO news( title, url, newspaper, page, publish_date, crawl_date, body news_id ) VALUES (?,?,?,?,?,?,?,?) 
+2014-09-26 20:56:48,339 [main] DEBUG - ==> Parameters: 习近平会见斯里兰卡总理贾亚拉特纳(String), http://epaper.gmw.cn/gmrb/html/2014-09/18/nw.D110000gmrb_20140918_1-02.htm(String), 光明日报(String), 第02版：要闻(String), null, null, 我就不告诉你～(String), 0(Integer)
+2014-09-26 21:02:42,928 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 21:02:43,002 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:02:43,003 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:02:43,003 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:02:43,003 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:02:43,125 [main] DEBUG - Openning JDBC Connection
+2014-09-26 21:02:43,449 [main] DEBUG - Created connection 415138788.
+2014-09-26 21:02:43,451 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@18be83e4]
+2014-09-26 21:02:43,451 [main] DEBUG - ==>  Preparing: INSERT INTO news( title, url, newspaper, page, publish_date, crawl_date, body news_id ) VALUES (?,?,?,?,?,?,?,?) 
+2014-09-26 21:02:43,502 [main] DEBUG - ==> Parameters: 习近平会见斯里兰卡总理贾亚拉特纳(String), http://epaper.gmw.cn/gmrb/html/2014-09/18/nw.D110000gmrb_20140918_1-02.htm(String), 光明日报(String), 第02版：要闻(String), null, null, 我就不告诉你～(String), 0(Integer)
+2014-09-26 21:03:49,344 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 21:03:49,406 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:03:49,407 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:03:49,407 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:03:49,407 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:03:49,553 [main] DEBUG - Openning JDBC Connection
+2014-09-26 21:03:49,927 [main] DEBUG - Created connection 1282473384.
+2014-09-26 21:03:49,930 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 21:03:49,930 [main] DEBUG - ==>  Preparing: SELECT title, url, newspaper, page, publish_date, crawl_date, body news_id FROM news WHERE news.id = ? 
+2014-09-26 21:03:50,005 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 21:05:14,073 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 21:05:14,136 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:05:14,137 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:05:14,137 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:05:14,137 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:05:14,261 [main] DEBUG - Openning JDBC Connection
+2014-09-26 21:05:14,616 [main] DEBUG - Created connection 650023597.
+2014-09-26 21:05:14,619 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@26be92ad]
+2014-09-26 21:05:14,619 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE page = ? 
+2014-09-26 21:05:14,670 [main] DEBUG - ==> Parameters: 第02版：要闻(String)
+2014-09-26 21:05:39,406 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 21:05:39,479 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:05:39,479 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:05:39,479 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:05:39,479 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:05:39,583 [main] DEBUG - Openning JDBC Connection
+2014-09-26 21:05:39,917 [main] DEBUG - Created connection 415138788.
+2014-09-26 21:05:39,919 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@18be83e4]
+2014-09-26 21:05:39,919 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE newspaper = {#newspaper} 
+2014-09-26 21:05:39,968 [main] DEBUG - ==> Parameters: 
+2014-09-26 21:06:07,481 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 21:06:07,553 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:06:07,553 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:06:07,553 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:06:07,553 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:06:07,672 [main] DEBUG - Openning JDBC Connection
+2014-09-26 21:06:08,028 [main] DEBUG - Created connection 415138788.
+2014-09-26 21:06:08,031 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@18be83e4]
+2014-09-26 21:06:08,031 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE newspaper = {#newspaper} 
+2014-09-26 21:06:08,076 [main] DEBUG - ==> Parameters: 
+2014-09-26 21:06:14,987 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 21:06:15,062 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:06:15,062 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:06:15,062 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:06:15,063 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:06:15,176 [main] DEBUG - Openning JDBC Connection
+2014-09-26 21:06:15,513 [main] DEBUG - Created connection 650023597.
+2014-09-26 21:06:15,517 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@26be92ad]
+2014-09-26 21:06:15,517 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE newspaper = ? 
+2014-09-26 21:06:15,578 [main] DEBUG - ==> Parameters: 光明日报(String)
+2014-09-26 21:07:30,675 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 21:07:30,763 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:07:30,763 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:07:30,763 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:07:30,763 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:07:30,880 [main] DEBUG - Openning JDBC Connection
+2014-09-26 21:07:31,238 [main] DEBUG - Created connection 650023597.
+2014-09-26 21:07:31,241 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@26be92ad]
+2014-09-26 21:07:31,242 [main] DEBUG - ==>  Preparing: SELECT count(*) FROM news WHERE title = ? AND url = ? AND newspaper = ? AND page = ? 
+2014-09-26 21:07:31,292 [main] DEBUG - ==> Parameters: 习近平会见斯里兰卡总理贾亚拉特纳(String), http://epaper.gmw.cn/gmrb/html/2014-09/18/nw.D110000gmrb_20140918_1-02.htm(String), 光明日报(String), 第02版：要闻(String)
+2014-09-26 21:08:16,627 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 21:08:16,699 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:08:16,699 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:08:16,700 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:08:16,700 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:08:16,821 [main] DEBUG - Openning JDBC Connection
+2014-09-26 21:08:17,171 [main] DEBUG - Created connection 1282473384.
+2014-09-26 21:08:17,173 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 21:08:17,174 [main] DEBUG - ==>  Preparing: SELECT title, url, newspaper, page, publish_date, crawl_date, body news_id FROM news WHERE news.id = ? 
+2014-09-26 21:08:17,219 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 21:12:38,033 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 21:12:38,096 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:12:38,097 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:12:38,097 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:12:38,097 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:12:38,211 [main] DEBUG - Openning JDBC Connection
+2014-09-26 21:12:38,537 [main] DEBUG - Created connection 1282473384.
+2014-09-26 21:12:38,540 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 21:12:38,540 [main] DEBUG - ==>  Preparing: SELECT title, url, newspaper, page, publish_date, crawl_date, body news_id FROM news WHERE news.id = ? 
+2014-09-26 21:12:38,585 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 21:12:53,219 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 21:12:53,302 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:12:53,302 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:12:53,302 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:12:53,302 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:12:53,465 [main] DEBUG - Openning JDBC Connection
+2014-09-26 21:12:53,915 [main] DEBUG - Created connection 1282473384.
+2014-09-26 21:12:53,918 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 21:12:53,918 [main] DEBUG - ==>  Preparing: SELECT title, url, newspaper, page, publish_date, crawl_date, body news_id FROM news WHERE news.id = ? 
+2014-09-26 21:12:53,965 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 21:13:15,220 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 21:13:15,288 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:13:15,289 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:13:15,289 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:13:15,289 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:13:15,398 [main] DEBUG - Openning JDBC Connection
+2014-09-26 21:13:15,752 [main] DEBUG - Created connection 1282473384.
+2014-09-26 21:13:15,755 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 21:13:15,756 [main] DEBUG - ==>  Preparing: SELECT title, url, newspaper, page, publish_date, crawl_date, body news_id FROM news WHERE news.id = ? 
+2014-09-26 21:13:15,807 [main] DEBUG - ==> Parameters: 2(Integer)
+2014-09-26 21:28:27,668 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 21:28:27,843 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:28:27,843 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:28:27,843 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:28:27,843 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:28:27,984 [main] DEBUG - Openning JDBC Connection
+2014-09-26 21:28:28,564 [main] DEBUG - Created connection 1282473384.
+2014-09-26 21:28:28,574 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 21:28:28,574 [main] DEBUG - ==>  Preparing: SELECT title, url, newspaper, page, publish_date, crawl_date, body news_id FROM news WHERE news.id = ? 
+2014-09-26 21:28:28,650 [main] DEBUG - ==> Parameters: 2(Integer)
+2014-09-26 21:29:24,024 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 21:29:24,084 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:29:24,084 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:29:24,084 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:29:24,084 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:29:24,255 [main] DEBUG - Openning JDBC Connection
+2014-09-26 21:29:24,576 [main] DEBUG - Created connection 1282473384.
+2014-09-26 21:29:24,578 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 21:29:24,579 [main] DEBUG - ==>  Preparing: SELECT * FROM news WHERE news.id = ? 
+2014-09-26 21:29:24,623 [main] DEBUG - ==> Parameters: 2(Integer)
+2014-09-26 21:29:38,758 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 21:29:38,836 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:29:38,836 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:29:38,836 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:29:38,837 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:29:38,957 [main] DEBUG - Openning JDBC Connection
+2014-09-26 21:29:39,287 [main] DEBUG - Created connection 1282473384.
+2014-09-26 21:29:39,290 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 21:29:39,290 [main] DEBUG - ==>  Preparing: SELECT * FROM news WHERE news.id = ? 
+2014-09-26 21:29:39,338 [main] DEBUG - ==> Parameters: 2(Integer)
+2014-09-26 21:31:55,751 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 21:31:55,814 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:31:55,814 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:31:55,814 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:31:55,815 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:31:55,930 [main] DEBUG - Openning JDBC Connection
+2014-09-26 21:31:56,260 [main] DEBUG - Created connection 1282473384.
+2014-09-26 21:31:56,263 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 21:31:56,264 [main] DEBUG - ==>  Preparing: SELECT * FROM news WHERE news.id = ? 
+2014-09-26 21:31:56,309 [main] DEBUG - ==> Parameters: 2(Integer)
+2014-09-26 21:31:56,347 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 21:31:56,347 [main] DEBUG - ==>  Preparing: INSERT INTO news( title, url, newspaper, page, publish_date, crawl_date, body news_id ) VALUES (?,?,?,?,?,?,?,?) 
+2014-09-26 21:31:56,361 [main] DEBUG - ==> Parameters: 习近平在印度总理莫迪陪同下访问古吉拉特邦(String), http://paper.people.com.cn/rmrb/html/2014-09/18/nw.D110000renmrb_20140918_4-02.htm(String), 人民日报(String), 第02版：要闻(String), 2014-09-18(Date), 2014-09-19(Date), 
+　　9月17日，国家主席习近平在印度古吉拉特邦进行访问。印度总理莫迪全程陪同。这是莫迪在习近平下榻的酒店门口热情迎接。 　　新华社记者 庞兴雷摄
+　　9月17日，国家主席习近平在印度古吉拉特邦进行访问。印度总理莫迪全程陪同。这是习近平在参观甘地故居时，亲自摇动甘地曾经使用过的纺车。 　　新华社记者 马占成摄
+　　9月17日，国家主席习近平在印度古吉拉特邦进行访问。印度总理莫迪全程陪同。这是习近平和莫迪一同参观河岸公园发展项目。 　　新华社记者 鞠 鹏摄
+　　本报印度艾哈迈达巴德9月17日电 （记者杜尚泽、吕鹏飞）国家主席习近平17日在印度古吉拉特邦进行访问。印度总理莫迪全程陪同。两国领导人亲切会见，共同参观甘地故居和河岸公园发展项目，追昔抚今，展望未来，共话两国关系发展和共同关心的重要问题。
+　　习近平和夫人彭丽媛抵达下榻宾馆时，受到莫迪热情迎接。莫迪热烈欢迎习近平到访。莫迪表示，习近平主席访问印度第一站，就来到我的家乡古吉拉特邦，古吉拉特邦人民感到非常荣幸。今年7月，我们在巴西会晤时谈得很好，习近平主席说我们两人一见如故，我也有同感。我提出印中两国是“两个身体、一种精神”，这句话在印度广为流传。印中两国有着相同发展抱负，完全可以加强合作。印中两国国名英文头两个字母拼写在一起，就是“英寸”（INCH）一词。为欢迎习近平主席访问印度，我专门在印度报纸上发表文章，提出两国应该以“从英寸到英里”的精神推动印中关系向前发展。
+　　习近平表示，我很高兴一踏上印度土地，就来到你的家乡古吉拉特邦，这里是中国唐代高僧玄奘西行取经途经的地方，在两国悠久友好交往史上具有特殊地位。中印互为重要邻国，都是文明古国，也都是发展中大国，都致力于发展振兴，两国应该相互尊重、互学互鉴、睦邻友好、携手并进。我这次访问是友谊之旅、合作之旅。感谢你专程前来陪同我访问你的家乡。中国有句名言，“不积跬步，无以至千里”。我们要脚踏实地、扎扎实实、持之以恒把中印关系推向前进。我愿意同你共同努力完成这一使命。
+　　在习近平和莫迪共同见证下，双方签署了关于设立输变电设备产业园区，中国广东省和古吉拉特邦、广州市和艾哈迈达巴德市结为友好省邦、友好城市的协议。
+　　当天下午，习近平在莫迪陪同下参观甘地故居。红瓦白墙，绿树成荫，印度少年在草坪上吟唱甘地名言。习近平身穿莫迪赠送的印度传统夹克抵达甘地故居，莫迪向前迎接。在甘地图片展室，莫迪向习近平介绍甘地生活和斗争经历。习近平向甘地铜像敬撒花瓣。在甘地居室，莫迪介绍了甘地清贫简朴的生活方式，向习近平赠送象征着“甘地主义”和平勤劳精神的手纺棉纱条。习近平按照当地习惯，将棉纱条挂在甘地画像前，表示敬意。习近平亲自摇动甘地曾经使用过的纺车。莫迪向习近平赠送关于甘地的书籍和当年南非华人支持甘地的海报。习近平指出，中印两国人民在反对殖民主义、争取民族独立的斗争中相互同情、相互支持，结下深厚友情。我们要把它传承下去，发扬光大。
+　　离开甘地故居，习近平和莫迪一同来到市中心，参观河岸公园发展项目。
+　　萨巴玛蒂河畔华灯初上，微风习习。习近平和莫迪边走边看，莫迪亲自为习近平做讲解。古吉拉特邦民众表演该邦不同地区、不同风格的传统歌舞。他们身穿节日服装，敲锣打鼓，舞步酣畅，歌声飞扬。习近平走到他们面前，鼓掌致意。独具特色的印度民间艺术品摆放在草坪上，习近平仔细欣赏。习近平和莫迪时而停下脚步，时而坐下来亲切交谈。莫迪表示，河岸发展项目是印度最大的棚户区改造工程。近些年来，古吉拉特邦将经济增长、民生改善、环境保护结合起来，取得显著成效。印度政府正在推广这种模式。
+　　习近平表示，感谢莫迪总理为我所做的精心安排和热情接待，使我领略了古吉拉特邦的发展成就和多姿多彩的风俗文化，我感受到古吉拉特邦的生机活力。中印双方都在探索走符合本国国情的发展道路，我们可以相互借鉴。
+　　夕阳西下，莫迪邀请习近平走进帐篷，继续深谈，就治国理政进行交流。习近平应询介绍了中国“两个一百年”奋斗目标、全面深化改革、加强执政党的建设等方面情况。莫迪表示，印方愿意同中方加强交流合作。
+　　9月17日是莫迪64岁生日，习近平祝莫迪生日快乐。莫迪表示，我同习近平主席一起过生日，非常有意义，令我难忘。我期待明天同习近平主席在新德里继续会谈。
+　　彭丽媛、王沪宁、栗战书、杨洁篪参加有关活动。
+(String), 184(Integer)
+2014-09-26 21:33:01,725 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 21:33:01,797 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:33:01,797 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:33:01,797 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:33:01,797 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 21:33:01,898 [main] DEBUG - Openning JDBC Connection
+2014-09-26 21:33:02,223 [main] DEBUG - Created connection 1282473384.
+2014-09-26 21:33:02,226 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 21:33:02,226 [main] DEBUG - ==>  Preparing: SELECT * FROM news WHERE news.id = ? 
+2014-09-26 21:33:02,270 [main] DEBUG - ==> Parameters: 2(Integer)
+2014-09-26 21:33:02,309 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 21:33:02,309 [main] DEBUG - ==>  Preparing: INSERT INTO news( title, url, newspaper, page, publish_date, crawl_date, body news_id ) VALUES (?,?,?,?,?,?,?,?) 
+2014-09-26 21:33:02,325 [main] DEBUG - ==> Parameters: 习近平在印度总理莫迪陪同下访问古吉拉特邦(String), http://paper.people.com.cn/rmrb/html/2014-09/18/nw.D110000renmrb_20140918_4-02.htm(String), 人民日报(String), 第02版：要闻(String), 2014-09-18(Date), 2014-09-19(Date), 
+　　9月17日，国家主席习近平在印度古吉拉特邦进行访问。印度总理莫迪全程陪同。这是莫迪在习近平下榻的酒店门口热情迎接。 　　新华社记者 庞兴雷摄
+　　9月17日，国家主席习近平在印度古吉拉特邦进行访问。印度总理莫迪全程陪同。这是习近平在参观甘地故居时，亲自摇动甘地曾经使用过的纺车。 　　新华社记者 马占成摄
+　　9月17日，国家主席习近平在印度古吉拉特邦进行访问。印度总理莫迪全程陪同。这是习近平和莫迪一同参观河岸公园发展项目。 　　新华社记者 鞠 鹏摄
+　　本报印度艾哈迈达巴德9月17日电 （记者杜尚泽、吕鹏飞）国家主席习近平17日在印度古吉拉特邦进行访问。印度总理莫迪全程陪同。两国领导人亲切会见，共同参观甘地故居和河岸公园发展项目，追昔抚今，展望未来，共话两国关系发展和共同关心的重要问题。
+　　习近平和夫人彭丽媛抵达下榻宾馆时，受到莫迪热情迎接。莫迪热烈欢迎习近平到访。莫迪表示，习近平主席访问印度第一站，就来到我的家乡古吉拉特邦，古吉拉特邦人民感到非常荣幸。今年7月，我们在巴西会晤时谈得很好，习近平主席说我们两人一见如故，我也有同感。我提出印中两国是“两个身体、一种精神”，这句话在印度广为流传。印中两国有着相同发展抱负，完全可以加强合作。印中两国国名英文头两个字母拼写在一起，就是“英寸”（INCH）一词。为欢迎习近平主席访问印度，我专门在印度报纸上发表文章，提出两国应该以“从英寸到英里”的精神推动印中关系向前发展。
+　　习近平表示，我很高兴一踏上印度土地，就来到你的家乡古吉拉特邦，这里是中国唐代高僧玄奘西行取经途经的地方，在两国悠久友好交往史上具有特殊地位。中印互为重要邻国，都是文明古国，也都是发展中大国，都致力于发展振兴，两国应该相互尊重、互学互鉴、睦邻友好、携手并进。我这次访问是友谊之旅、合作之旅。感谢你专程前来陪同我访问你的家乡。中国有句名言，“不积跬步，无以至千里”。我们要脚踏实地、扎扎实实、持之以恒把中印关系推向前进。我愿意同你共同努力完成这一使命。
+　　在习近平和莫迪共同见证下，双方签署了关于设立输变电设备产业园区，中国广东省和古吉拉特邦、广州市和艾哈迈达巴德市结为友好省邦、友好城市的协议。
+　　当天下午，习近平在莫迪陪同下参观甘地故居。红瓦白墙，绿树成荫，印度少年在草坪上吟唱甘地名言。习近平身穿莫迪赠送的印度传统夹克抵达甘地故居，莫迪向前迎接。在甘地图片展室，莫迪向习近平介绍甘地生活和斗争经历。习近平向甘地铜像敬撒花瓣。在甘地居室，莫迪介绍了甘地清贫简朴的生活方式，向习近平赠送象征着“甘地主义”和平勤劳精神的手纺棉纱条。习近平按照当地习惯，将棉纱条挂在甘地画像前，表示敬意。习近平亲自摇动甘地曾经使用过的纺车。莫迪向习近平赠送关于甘地的书籍和当年南非华人支持甘地的海报。习近平指出，中印两国人民在反对殖民主义、争取民族独立的斗争中相互同情、相互支持，结下深厚友情。我们要把它传承下去，发扬光大。
+　　离开甘地故居，习近平和莫迪一同来到市中心，参观河岸公园发展项目。
+　　萨巴玛蒂河畔华灯初上，微风习习。习近平和莫迪边走边看，莫迪亲自为习近平做讲解。古吉拉特邦民众表演该邦不同地区、不同风格的传统歌舞。他们身穿节日服装，敲锣打鼓，舞步酣畅，歌声飞扬。习近平走到他们面前，鼓掌致意。独具特色的印度民间艺术品摆放在草坪上，习近平仔细欣赏。习近平和莫迪时而停下脚步，时而坐下来亲切交谈。莫迪表示，河岸发展项目是印度最大的棚户区改造工程。近些年来，古吉拉特邦将经济增长、民生改善、环境保护结合起来，取得显著成效。印度政府正在推广这种模式。
+　　习近平表示，感谢莫迪总理为我所做的精心安排和热情接待，使我领略了古吉拉特邦的发展成就和多姿多彩的风俗文化，我感受到古吉拉特邦的生机活力。中印双方都在探索走符合本国国情的发展道路，我们可以相互借鉴。
+　　夕阳西下，莫迪邀请习近平走进帐篷，继续深谈，就治国理政进行交流。习近平应询介绍了中国“两个一百年”奋斗目标、全面深化改革、加强执政党的建设等方面情况。莫迪表示，印方愿意同中方加强交流合作。
+　　9月17日是莫迪64岁生日，习近平祝莫迪生日快乐。莫迪表示，我同习近平主席一起过生日，非常有意义，令我难忘。我期待明天同习近平主席在新德里继续会谈。
+　　彭丽媛、王沪宁、栗战书、杨洁篪参加有关活动。
+(String), 184(Integer)
+2014-09-26 22:31:46,376 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 22:31:46,453 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:31:46,454 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:31:46,454 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:31:46,454 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:31:46,551 [main] DEBUG - Openning JDBC Connection
+2014-09-26 22:31:46,865 [main] DEBUG - Created connection 1282473384.
+2014-09-26 22:31:46,867 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 22:31:46,867 [main] DEBUG - ==>  Preparing: SELECT * FROM news WHERE news.id = ? 
+2014-09-26 22:31:46,910 [main] DEBUG - ==> Parameters: 2(Integer)
+2014-09-26 22:31:46,947 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 22:31:46,947 [main] DEBUG - ==>  Preparing: INSERT INTO news( title, url, newspaper, page, publish_date, crawl_date, body news_id ) VALUES (?,?,?,?,?,?,?,?) 
+2014-09-26 22:31:46,960 [main] DEBUG - ==> Parameters: 习近平在印度总理莫迪陪同下访问古吉拉特邦(String), http://paper.people.com.cn/rmrb/html/2014-09/18/nw.D110000renmrb_20140918_4-02.htm(String), 人民日报(String), 第02版：要闻(String), 2014-09-18(Date), 2014-09-19(Date), 
+　　9月17日，国家主席习近平在印度古吉拉特邦进行访问。印度总理莫迪全程陪同。这是莫迪在习近平下榻的酒店门口热情迎接。 　　新华社记者 庞兴雷摄
+　　9月17日，国家主席习近平在印度古吉拉特邦进行访问。印度总理莫迪全程陪同。这是习近平在参观甘地故居时，亲自摇动甘地曾经使用过的纺车。 　　新华社记者 马占成摄
+　　9月17日，国家主席习近平在印度古吉拉特邦进行访问。印度总理莫迪全程陪同。这是习近平和莫迪一同参观河岸公园发展项目。 　　新华社记者 鞠 鹏摄
+　　本报印度艾哈迈达巴德9月17日电 （记者杜尚泽、吕鹏飞）国家主席习近平17日在印度古吉拉特邦进行访问。印度总理莫迪全程陪同。两国领导人亲切会见，共同参观甘地故居和河岸公园发展项目，追昔抚今，展望未来，共话两国关系发展和共同关心的重要问题。
+　　习近平和夫人彭丽媛抵达下榻宾馆时，受到莫迪热情迎接。莫迪热烈欢迎习近平到访。莫迪表示，习近平主席访问印度第一站，就来到我的家乡古吉拉特邦，古吉拉特邦人民感到非常荣幸。今年7月，我们在巴西会晤时谈得很好，习近平主席说我们两人一见如故，我也有同感。我提出印中两国是“两个身体、一种精神”，这句话在印度广为流传。印中两国有着相同发展抱负，完全可以加强合作。印中两国国名英文头两个字母拼写在一起，就是“英寸”（INCH）一词。为欢迎习近平主席访问印度，我专门在印度报纸上发表文章，提出两国应该以“从英寸到英里”的精神推动印中关系向前发展。
+　　习近平表示，我很高兴一踏上印度土地，就来到你的家乡古吉拉特邦，这里是中国唐代高僧玄奘西行取经途经的地方，在两国悠久友好交往史上具有特殊地位。中印互为重要邻国，都是文明古国，也都是发展中大国，都致力于发展振兴，两国应该相互尊重、互学互鉴、睦邻友好、携手并进。我这次访问是友谊之旅、合作之旅。感谢你专程前来陪同我访问你的家乡。中国有句名言，“不积跬步，无以至千里”。我们要脚踏实地、扎扎实实、持之以恒把中印关系推向前进。我愿意同你共同努力完成这一使命。
+　　在习近平和莫迪共同见证下，双方签署了关于设立输变电设备产业园区，中国广东省和古吉拉特邦、广州市和艾哈迈达巴德市结为友好省邦、友好城市的协议。
+　　当天下午，习近平在莫迪陪同下参观甘地故居。红瓦白墙，绿树成荫，印度少年在草坪上吟唱甘地名言。习近平身穿莫迪赠送的印度传统夹克抵达甘地故居，莫迪向前迎接。在甘地图片展室，莫迪向习近平介绍甘地生活和斗争经历。习近平向甘地铜像敬撒花瓣。在甘地居室，莫迪介绍了甘地清贫简朴的生活方式，向习近平赠送象征着“甘地主义”和平勤劳精神的手纺棉纱条。习近平按照当地习惯，将棉纱条挂在甘地画像前，表示敬意。习近平亲自摇动甘地曾经使用过的纺车。莫迪向习近平赠送关于甘地的书籍和当年南非华人支持甘地的海报。习近平指出，中印两国人民在反对殖民主义、争取民族独立的斗争中相互同情、相互支持，结下深厚友情。我们要把它传承下去，发扬光大。
+　　离开甘地故居，习近平和莫迪一同来到市中心，参观河岸公园发展项目。
+　　萨巴玛蒂河畔华灯初上，微风习习。习近平和莫迪边走边看，莫迪亲自为习近平做讲解。古吉拉特邦民众表演该邦不同地区、不同风格的传统歌舞。他们身穿节日服装，敲锣打鼓，舞步酣畅，歌声飞扬。习近平走到他们面前，鼓掌致意。独具特色的印度民间艺术品摆放在草坪上，习近平仔细欣赏。习近平和莫迪时而停下脚步，时而坐下来亲切交谈。莫迪表示，河岸发展项目是印度最大的棚户区改造工程。近些年来，古吉拉特邦将经济增长、民生改善、环境保护结合起来，取得显著成效。印度政府正在推广这种模式。
+　　习近平表示，感谢莫迪总理为我所做的精心安排和热情接待，使我领略了古吉拉特邦的发展成就和多姿多彩的风俗文化，我感受到古吉拉特邦的生机活力。中印双方都在探索走符合本国国情的发展道路，我们可以相互借鉴。
+　　夕阳西下，莫迪邀请习近平走进帐篷，继续深谈，就治国理政进行交流。习近平应询介绍了中国“两个一百年”奋斗目标、全面深化改革、加强执政党的建设等方面情况。莫迪表示，印方愿意同中方加强交流合作。
+　　9月17日是莫迪64岁生日，习近平祝莫迪生日快乐。莫迪表示，我同习近平主席一起过生日，非常有意义，令我难忘。我期待明天同习近平主席在新德里继续会谈。
+　　彭丽媛、王沪宁、栗战书、杨洁篪参加有关活动。
+(String), 184(Integer)
+2014-09-26 22:32:30,492 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 22:32:30,555 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:32:30,555 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:32:30,555 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:32:30,555 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:32:30,661 [main] DEBUG - Openning JDBC Connection
+2014-09-26 22:32:31,038 [main] DEBUG - Created connection 1282473384.
+2014-09-26 22:32:31,040 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 22:32:31,040 [main] DEBUG - ==>  Preparing: SELECT * FROM news WHERE news.id = ? 
+2014-09-26 22:32:31,095 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 22:32:31,136 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 22:32:31,136 [main] DEBUG - ==>  Preparing: INSERT INTO news( title, url, newspaper, page, publish_date, crawl_date, body news_id ) VALUES (?,?,?,?,?,?,?,?) 
+2014-09-26 22:32:31,154 [main] DEBUG - ==> Parameters: 习近平会见斯里兰卡总理贾亚拉特纳(String), http://epaper.gmw.cn/gmrb/html/2014-09/18/nw.D110000gmrb_20140918_1-02.htm(String), 光明日报(String), 第02版：要闻(String), 2014-09-18(Date), 2014-09-19(Date), 
+    本报科伦坡9月17日电（记者汤先营）国家主席习近平17日在科伦坡会见斯里兰卡总理贾亚拉特纳。
+
+    习近平赞赏贾亚拉特纳长期致力于推动中斯关系发展，是中斯友谊的见证者和推动者。习近平指出，昨天我同拉贾帕克萨总统进行了富有成果的会谈，就深化双边关系达成广泛共识，对中斯关系未来发展作出规划，双方要扎扎实实推进，一件一件落实。双方要加快推进中斯自由贸易谈判，稳步推进汉班托塔港等大项目合作，拓展旅游、海洋科研、海洋经济、港口建设、海上安全等领域合作，共同推进21世纪海上丝绸之路建设，加强旅游合作，促进两国人员交往。双方要加强多边领域合作，中方欢迎斯方作为创始成员国参与筹建亚洲基础设施投资银行。
+
+    贾亚拉特纳表示，我曾数次访华，见过毛泽东主席等中国老一辈领导人，对中国怀有深厚的感情。斯里兰卡人民感谢中国提供的宝贵支持和帮助。我们愿意学习借鉴中国的成功经验，积极参与21世纪海上丝绸之路建设，携手共同发展。
+
+    王沪宁、栗战书、杨洁篪参加会见。
+
+(String), 70(Integer)
+2014-09-26 22:36:30,165 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 22:36:30,354 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:36:30,354 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:36:30,354 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:36:30,354 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:36:30,497 [main] DEBUG - Openning JDBC Connection
+2014-09-26 22:36:30,916 [main] DEBUG - Created connection 415138788.
+2014-09-26 22:36:30,918 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@18be83e4]
+2014-09-26 22:36:30,919 [main] DEBUG - ==>  Preparing: INSERT INTO news( title, url, newspaper, page, publish_date, crawl_date, body news_id ) VALUES (?,?,?,?,?,?,?,?) 
+2014-09-26 22:36:30,988 [main] DEBUG - ==> Parameters: 习近平会见斯里兰卡总理贾亚拉特纳(String), http://epaper.gmw.cn/gmrb/html/2014-09/18/nw.D110000gmrb_20140918_1-02.htm(String), 光明日报(String), 第02版：要闻(String), null, null, 我就不告诉你～(String), 0(Integer)
+2014-09-26 22:36:55,980 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 22:36:56,076 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:36:56,076 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:36:56,076 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:36:56,076 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:36:56,215 [main] DEBUG - Openning JDBC Connection
+2014-09-26 22:36:56,632 [main] DEBUG - Created connection 1282473384.
+2014-09-26 22:36:56,636 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 22:36:56,637 [main] DEBUG - ==>  Preparing: SELECT * FROM news WHERE news.id = ? 
+2014-09-26 22:36:56,729 [main] DEBUG - ==> Parameters: 12(Integer)
+2014-09-26 22:36:56,780 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 22:36:56,780 [main] DEBUG - ==>  Preparing: INSERT INTO news( title, url, newspaper, page, publish_date, crawl_date, body news_id ) VALUES (?,?,?,?,?,?,?,?) 
+2014-09-26 22:36:56,907 [main] DEBUG - ==> Parameters: 习近平在印度总理莫迪陪同下访问古吉拉特邦(String), http://bjrb.bjd.com.cn/html/2014-09/18/content_218038.htm(String), 北京日报(String), 第01版：头版(String), 2014-09-18(Date), 2014-09-19(Date), 
+
+    新华社印度艾哈迈达巴德9月17日电（记者 李斌 李建敏 陈贽）国家主席习近平17日在印度古吉拉特邦进行访问。印度总理莫迪全程陪同。两国领导人亲切会见，共同参观甘地故居和河岸公园发展项目，追昔抚今，展望未来，共话两国关系发展和共同关心的重要问题。
+    习近平和夫人彭丽媛抵达下榻宾馆时，受到莫迪热情迎接。莫迪热烈欢迎习近平到访。莫迪表示，习近平主席访问印度第一站，就来到我的家乡古吉拉特邦，古吉拉特邦人民感到非常荣幸。今年7月，我们在巴西会晤时谈得很好，习近平主席说我们两人一见如故，我也有同感。我提出印中两国是“两个身体、一种精神”，这句话在印度广为流传。印中两国有着相同发展抱负，完全可以加强合作。印中两国国名英文头两个字母拼写在一起，就是“英寸”(INCH）一词。为欢迎习近平主席访问印度，我专门在印度报纸上发表文章，提出两国应该以“从英寸到英里”的精神推动印中关系向前发展。
+    习近平表示，我很高兴一踏上印度土地，就来到你的家乡古吉拉特邦，这里是中国唐代高僧玄奘西行取经途经的地方，在两国悠久友好交往史上具有特殊地位。中印互为重要邻国，都是文明古国，也都是发展中大国，都致力于发展振兴，两国应该相互尊重、互学互鉴、睦邻友好、携手并进。我这次访问是友谊之旅、合作之旅。感谢你专程前来陪同我访问你的家乡。中国有句名言，“不积跬步，无以至千里”。我们要脚踏实地、扎扎实实、持之以恒把中印关系推向前进。我愿意同你共同努力完成这一使命。
+    在习近平和莫迪共同见证下，双方签署了关于设立输变电设备产业园区，中国广东省和古吉拉特邦、广州市和艾哈迈达巴德市结为友好省邦、友好城市的协议。
+    当天下午，习近平在莫迪陪同下参观甘地故居。红瓦白墙，绿树成荫，印度少年在草坪上吟唱甘地名言。习近平身穿莫迪赠送的印度传统夹克抵达甘地故居，莫迪向前迎接。在甘地图片展室，莫迪向习近平介绍甘地生活和斗争经历。习近平向甘地铜像敬撒花瓣。在甘地居室，莫迪介绍了甘地清贫简朴的生活方式，向习近平赠送象征着“甘地主义”和平勤劳精神的手纺棉纱条。习近平按照当地习惯，将棉纱条挂在甘地画像前，表示敬意。习近平亲自摇动甘地曾经使用过的纺车。莫迪向习近平赠送关于甘地的书籍和当年南非华人支持甘地的海报。习近平指出，中印两国人民在反对殖民主义、争取民族独立的斗争中相互同情、相互支持，结下深厚友情。我们要把它传承下去，发扬光大。
+    离开甘地故居，习近平和莫迪一同来到市中心，参观河岸公园发展项目。
+    萨巴玛蒂河畔华灯初上，微风习习。习近平和莫迪边走边看，莫迪亲自为习近平做讲解。古吉拉特邦民众表演该邦不同地区、不同风格的传统歌舞。他们身穿节日服装，敲锣打鼓，舞步酣畅，歌声飞扬。习近平走到他们面前，鼓掌致意。独具特色的印度民间艺术品摆放在草坪上，习近平仔细欣赏。习近平和莫迪时而停下脚步，时而坐下来亲切交谈。莫迪表示，河岸发展项目是印度最大的棚户区改造工程。近些年来，古吉拉特邦将经济增长、民生改善、环境保护结合起来，取得显著成效。印度政府正在推广这种模式。
+    习近平表示，感谢莫迪总理为我所做的精心安排和热情接待，使我领略了古吉拉特邦的发展成就和多姿多彩的风俗文化，我感受到古吉拉特邦的生机活力。中印双方都在探索走符合本国国情的发展道路，我们可以相互借鉴。
+    夕阳西下，莫迪邀请习近平走进帐篷，继续深谈，就治国理政进行交流。习近平应询介绍了中国“两个一百年”奋斗目标、全面深化改革、加强执政党的建设等方面情况。莫迪表示，印方愿意同中方加强交流合作。
+    9月17日是莫迪64岁生日，习近平祝莫迪生日快乐。莫迪表示，我同习近平主席一起过生日，非常有意义，令我难忘。我期待明天同习近平主席在新德里继续会谈。
+    彭丽媛、王沪宁、栗战书、杨洁篪参加有关活动。
+
+(String), 184(Integer)
+2014-09-26 22:37:55,555 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 22:37:55,676 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:37:55,676 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:37:55,676 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:37:55,676 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:37:55,821 [main] DEBUG - Openning JDBC Connection
+2014-09-26 22:37:56,277 [main] DEBUG - Created connection 1282473384.
+2014-09-26 22:37:56,279 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 22:37:56,280 [main] DEBUG - ==>  Preparing: SELECT * FROM news WHERE news.id = ? 
+2014-09-26 22:37:56,338 [main] DEBUG - ==> Parameters: 12(Integer)
+2014-09-26 22:37:56,387 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 22:37:56,388 [main] DEBUG - ==>  Preparing: INSERT INTO news (title, url, newspaper, page, publish_date, crawl_date, news_id) VALUES (?,?,?,?,?,?,?,?) 
+2014-09-26 22:37:56,465 [main] DEBUG - ==> Parameters: 习近平在印度总理莫迪陪同下访问古吉拉特邦(String), http://bjrb.bjd.com.cn/html/2014-09/18/content_218038.htm(String), 北京日报(String), 第01版：头版(String), 2014-09-18(Date), 2014-09-19(Date), 
+
+    新华社印度艾哈迈达巴德9月17日电（记者 李斌 李建敏 陈贽）国家主席习近平17日在印度古吉拉特邦进行访问。印度总理莫迪全程陪同。两国领导人亲切会见，共同参观甘地故居和河岸公园发展项目，追昔抚今，展望未来，共话两国关系发展和共同关心的重要问题。
+    习近平和夫人彭丽媛抵达下榻宾馆时，受到莫迪热情迎接。莫迪热烈欢迎习近平到访。莫迪表示，习近平主席访问印度第一站，就来到我的家乡古吉拉特邦，古吉拉特邦人民感到非常荣幸。今年7月，我们在巴西会晤时谈得很好，习近平主席说我们两人一见如故，我也有同感。我提出印中两国是“两个身体、一种精神”，这句话在印度广为流传。印中两国有着相同发展抱负，完全可以加强合作。印中两国国名英文头两个字母拼写在一起，就是“英寸”(INCH）一词。为欢迎习近平主席访问印度，我专门在印度报纸上发表文章，提出两国应该以“从英寸到英里”的精神推动印中关系向前发展。
+    习近平表示，我很高兴一踏上印度土地，就来到你的家乡古吉拉特邦，这里是中国唐代高僧玄奘西行取经途经的地方，在两国悠久友好交往史上具有特殊地位。中印互为重要邻国，都是文明古国，也都是发展中大国，都致力于发展振兴，两国应该相互尊重、互学互鉴、睦邻友好、携手并进。我这次访问是友谊之旅、合作之旅。感谢你专程前来陪同我访问你的家乡。中国有句名言，“不积跬步，无以至千里”。我们要脚踏实地、扎扎实实、持之以恒把中印关系推向前进。我愿意同你共同努力完成这一使命。
+    在习近平和莫迪共同见证下，双方签署了关于设立输变电设备产业园区，中国广东省和古吉拉特邦、广州市和艾哈迈达巴德市结为友好省邦、友好城市的协议。
+    当天下午，习近平在莫迪陪同下参观甘地故居。红瓦白墙，绿树成荫，印度少年在草坪上吟唱甘地名言。习近平身穿莫迪赠送的印度传统夹克抵达甘地故居，莫迪向前迎接。在甘地图片展室，莫迪向习近平介绍甘地生活和斗争经历。习近平向甘地铜像敬撒花瓣。在甘地居室，莫迪介绍了甘地清贫简朴的生活方式，向习近平赠送象征着“甘地主义”和平勤劳精神的手纺棉纱条。习近平按照当地习惯，将棉纱条挂在甘地画像前，表示敬意。习近平亲自摇动甘地曾经使用过的纺车。莫迪向习近平赠送关于甘地的书籍和当年南非华人支持甘地的海报。习近平指出，中印两国人民在反对殖民主义、争取民族独立的斗争中相互同情、相互支持，结下深厚友情。我们要把它传承下去，发扬光大。
+    离开甘地故居，习近平和莫迪一同来到市中心，参观河岸公园发展项目。
+    萨巴玛蒂河畔华灯初上，微风习习。习近平和莫迪边走边看，莫迪亲自为习近平做讲解。古吉拉特邦民众表演该邦不同地区、不同风格的传统歌舞。他们身穿节日服装，敲锣打鼓，舞步酣畅，歌声飞扬。习近平走到他们面前，鼓掌致意。独具特色的印度民间艺术品摆放在草坪上，习近平仔细欣赏。习近平和莫迪时而停下脚步，时而坐下来亲切交谈。莫迪表示，河岸发展项目是印度最大的棚户区改造工程。近些年来，古吉拉特邦将经济增长、民生改善、环境保护结合起来，取得显著成效。印度政府正在推广这种模式。
+    习近平表示，感谢莫迪总理为我所做的精心安排和热情接待，使我领略了古吉拉特邦的发展成就和多姿多彩的风俗文化，我感受到古吉拉特邦的生机活力。中印双方都在探索走符合本国国情的发展道路，我们可以相互借鉴。
+    夕阳西下，莫迪邀请习近平走进帐篷，继续深谈，就治国理政进行交流。习近平应询介绍了中国“两个一百年”奋斗目标、全面深化改革、加强执政党的建设等方面情况。莫迪表示，印方愿意同中方加强交流合作。
+    9月17日是莫迪64岁生日，习近平祝莫迪生日快乐。莫迪表示，我同习近平主席一起过生日，非常有意义，令我难忘。我期待明天同习近平主席在新德里继续会谈。
+    彭丽媛、王沪宁、栗战书、杨洁篪参加有关活动。
+
+(String), 184(Integer)
+2014-09-26 22:38:52,663 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 22:38:53,309 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:38:53,309 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:38:53,309 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:38:53,309 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:38:53,451 [main] DEBUG - Openning JDBC Connection
+2014-09-26 22:38:53,913 [main] DEBUG - Created connection 1282473384.
+2014-09-26 22:38:53,916 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 22:38:53,917 [main] DEBUG - ==>  Preparing: SELECT * FROM news WHERE news.id = ? 
+2014-09-26 22:38:54,010 [main] DEBUG - ==> Parameters: 12(Integer)
+2014-09-26 22:38:54,061 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 22:38:54,061 [main] DEBUG - ==>  Preparing: INSERT INTO news (title, url, newspaper, page, publish_date, crawl_date, body, news_id) VALUES (?,?,?,?,?,?,?,?) 
+2014-09-26 22:38:54,676 [main] DEBUG - ==> Parameters: 习近平在印度总理莫迪陪同下访问古吉拉特邦(String), http://bjrb.bjd.com.cn/html/2014-09/18/content_218038.htm(String), 北京日报(String), 第01版：头版(String), 2014-09-18(Date), 2014-09-19(Date), 
+
+    新华社印度艾哈迈达巴德9月17日电（记者 李斌 李建敏 陈贽）国家主席习近平17日在印度古吉拉特邦进行访问。印度总理莫迪全程陪同。两国领导人亲切会见，共同参观甘地故居和河岸公园发展项目，追昔抚今，展望未来，共话两国关系发展和共同关心的重要问题。
+    习近平和夫人彭丽媛抵达下榻宾馆时，受到莫迪热情迎接。莫迪热烈欢迎习近平到访。莫迪表示，习近平主席访问印度第一站，就来到我的家乡古吉拉特邦，古吉拉特邦人民感到非常荣幸。今年7月，我们在巴西会晤时谈得很好，习近平主席说我们两人一见如故，我也有同感。我提出印中两国是“两个身体、一种精神”，这句话在印度广为流传。印中两国有着相同发展抱负，完全可以加强合作。印中两国国名英文头两个字母拼写在一起，就是“英寸”(INCH）一词。为欢迎习近平主席访问印度，我专门在印度报纸上发表文章，提出两国应该以“从英寸到英里”的精神推动印中关系向前发展。
+    习近平表示，我很高兴一踏上印度土地，就来到你的家乡古吉拉特邦，这里是中国唐代高僧玄奘西行取经途经的地方，在两国悠久友好交往史上具有特殊地位。中印互为重要邻国，都是文明古国，也都是发展中大国，都致力于发展振兴，两国应该相互尊重、互学互鉴、睦邻友好、携手并进。我这次访问是友谊之旅、合作之旅。感谢你专程前来陪同我访问你的家乡。中国有句名言，“不积跬步，无以至千里”。我们要脚踏实地、扎扎实实、持之以恒把中印关系推向前进。我愿意同你共同努力完成这一使命。
+    在习近平和莫迪共同见证下，双方签署了关于设立输变电设备产业园区，中国广东省和古吉拉特邦、广州市和艾哈迈达巴德市结为友好省邦、友好城市的协议。
+    当天下午，习近平在莫迪陪同下参观甘地故居。红瓦白墙，绿树成荫，印度少年在草坪上吟唱甘地名言。习近平身穿莫迪赠送的印度传统夹克抵达甘地故居，莫迪向前迎接。在甘地图片展室，莫迪向习近平介绍甘地生活和斗争经历。习近平向甘地铜像敬撒花瓣。在甘地居室，莫迪介绍了甘地清贫简朴的生活方式，向习近平赠送象征着“甘地主义”和平勤劳精神的手纺棉纱条。习近平按照当地习惯，将棉纱条挂在甘地画像前，表示敬意。习近平亲自摇动甘地曾经使用过的纺车。莫迪向习近平赠送关于甘地的书籍和当年南非华人支持甘地的海报。习近平指出，中印两国人民在反对殖民主义、争取民族独立的斗争中相互同情、相互支持，结下深厚友情。我们要把它传承下去，发扬光大。
+    离开甘地故居，习近平和莫迪一同来到市中心，参观河岸公园发展项目。
+    萨巴玛蒂河畔华灯初上，微风习习。习近平和莫迪边走边看，莫迪亲自为习近平做讲解。古吉拉特邦民众表演该邦不同地区、不同风格的传统歌舞。他们身穿节日服装，敲锣打鼓，舞步酣畅，歌声飞扬。习近平走到他们面前，鼓掌致意。独具特色的印度民间艺术品摆放在草坪上，习近平仔细欣赏。习近平和莫迪时而停下脚步，时而坐下来亲切交谈。莫迪表示，河岸发展项目是印度最大的棚户区改造工程。近些年来，古吉拉特邦将经济增长、民生改善、环境保护结合起来，取得显著成效。印度政府正在推广这种模式。
+    习近平表示，感谢莫迪总理为我所做的精心安排和热情接待，使我领略了古吉拉特邦的发展成就和多姿多彩的风俗文化，我感受到古吉拉特邦的生机活力。中印双方都在探索走符合本国国情的发展道路，我们可以相互借鉴。
+    夕阳西下，莫迪邀请习近平走进帐篷，继续深谈，就治国理政进行交流。习近平应询介绍了中国“两个一百年”奋斗目标、全面深化改革、加强执政党的建设等方面情况。莫迪表示，印方愿意同中方加强交流合作。
+    9月17日是莫迪64岁生日，习近平祝莫迪生日快乐。莫迪表示，我同习近平主席一起过生日，非常有意义，令我难忘。我期待明天同习近平主席在新德里继续会谈。
+    彭丽媛、王沪宁、栗战书、杨洁篪参加有关活动。
+
+(String), 184(Integer)
+2014-09-26 22:39:33,396 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 22:39:34,588 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:39:34,588 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:39:34,589 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:39:34,589 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:39:34,955 [main] DEBUG - Openning JDBC Connection
+2014-09-26 22:39:36,586 [main] DEBUG - Created connection 1282473384.
+2014-09-26 22:39:36,592 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 22:39:36,592 [main] DEBUG - ==>  Preparing: SELECT * FROM news WHERE news.id = ? 
+2014-09-26 22:39:36,648 [main] DEBUG - ==> Parameters: 10(Integer)
+2014-09-26 22:39:36,712 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@4c70fda8]
+2014-09-26 22:39:36,712 [main] DEBUG - ==>  Preparing: INSERT INTO news (title, url, newspaper, page, publish_date, crawl_date, body, news_id) VALUES (?,?,?,?,?,?,?,?) 
+2014-09-26 22:39:36,734 [main] DEBUG - ==> Parameters: 习近平会见斯里兰卡总理贾亚拉特纳(String), http://epaper.gmw.cn/gmrb/html/2014-09/18/nw.D110000gmrb_20140918_1-02.htm(String), 光明日报(String), 第02版：要闻(String), 2014-09-18(Date), 2014-09-19(Date), 
+    本报科伦坡9月17日电（记者汤先营）国家主席习近平17日在科伦坡会见斯里兰卡总理贾亚拉特纳。
+
+    习近平赞赏贾亚拉特纳长期致力于推动中斯关系发展，是中斯友谊的见证者和推动者。习近平指出，昨天我同拉贾帕克萨总统进行了富有成果的会谈，就深化双边关系达成广泛共识，对中斯关系未来发展作出规划，双方要扎扎实实推进，一件一件落实。双方要加快推进中斯自由贸易谈判，稳步推进汉班托塔港等大项目合作，拓展旅游、海洋科研、海洋经济、港口建设、海上安全等领域合作，共同推进21世纪海上丝绸之路建设，加强旅游合作，促进两国人员交往。双方要加强多边领域合作，中方欢迎斯方作为创始成员国参与筹建亚洲基础设施投资银行。
+
+    贾亚拉特纳表示，我曾数次访华，见过毛泽东主席等中国老一辈领导人，对中国怀有深厚的感情。斯里兰卡人民感谢中国提供的宝贵支持和帮助。我们愿意学习借鉴中国的成功经验，积极参与21世纪海上丝绸之路建设，携手共同发展。
+
+    王沪宁、栗战书、杨洁篪参加会见。
+
+(String), 70(Integer)
+2014-09-26 22:41:44,714 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 22:41:44,829 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:41:44,829 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:41:44,829 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:41:44,829 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:41:44,991 [main] DEBUG - Openning JDBC Connection
+2014-09-26 22:41:45,416 [main] DEBUG - Created connection 415138788.
+2014-09-26 22:41:45,421 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@18be83e4]
+2014-09-26 22:41:45,423 [main] DEBUG - ==>  Preparing: INSERT INTO news (title, url, newspaper, page, publish_date, crawl_date, body, news_id) VALUES (?,?,?,?,?,?,?,?) 
+2014-09-26 22:41:45,496 [main] DEBUG - ==> Parameters: 习近平会见斯里兰卡总理贾亚拉特纳(String), http://epaper.gmw.cn/gmrb/html/2014-09/18/nw.D110000gmrb_20140918_1-02.htm(String), 光明日报(String), 第02版：要闻(String), 2014-09-26(Date), 2014-09-26(Date), 我就不告诉你～(String), 20(Integer)
+2014-09-26 22:44:46,967 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 22:44:47,103 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:44:47,103 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:44:47,103 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:44:47,103 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:44:47,270 [main] DEBUG - Openning JDBC Connection
+2014-09-26 22:44:47,632 [main] DEBUG - Created connection 415138788.
+2014-09-26 22:44:47,635 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@18be83e4]
+2014-09-26 22:44:47,635 [main] DEBUG - ==>  Preparing: INSERT INTO news (title, url, newspaper, page, publish_date, crawl_date, body, news_id) VALUES (?,?,?,?,?,?,?,?) 
+2014-09-26 22:44:47,727 [main] DEBUG - ==> Parameters: 习近平会见斯里兰卡总理贾亚拉特纳(String), http://epaper.gmw.cn/gmrb/html/2014-09/18/nw.D110000gmrb_20140918_1-02.htm(String), 光明日报(String), 第02版：要闻(String), 2014-09-26(Date), 2014-09-26(Date), 我就不告诉你～(String), 20(Integer)
+2014-09-26 22:58:54,909 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-26 22:58:54,968 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:58:54,969 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:58:54,969 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:58:54,969 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-26 22:58:55,079 [main] DEBUG - Openning JDBC Connection
+2014-09-26 22:58:55,411 [main] DEBUG - Created connection 415138788.
+2014-09-26 22:58:55,413 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@18be83e4]
+2014-09-26 22:58:55,413 [main] DEBUG - ==>  Preparing: INSERT INTO news (title, url, newspaper, page, publish_date, crawl_date, body, news_id) VALUES (?,?,?,?,?,?,?,?) 
+2014-09-26 22:58:55,473 [main] DEBUG - ==> Parameters: 习近平会见斯里兰卡总理贾亚拉特纳(String), http://epaper.gmw.cn/gmrb/html/2014-09/18/nw.D110000gmrb_20140918_1-02.htm(String), 光明日报(String), 第02版：要闻(String), 2014-09-26(Date), 2014-09-26(Date), 我就不告诉你～(String), 20(Integer)
+2014-09-26 22:58:55,475 [main] DEBUG - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@18be83e4]
+2014-09-27 10:58:09,627 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-27 10:58:09,976 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-27 10:58:09,976 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-27 10:58:09,976 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-27 10:58:09,976 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-27 10:58:10,135 [main] DEBUG - Openning JDBC Connection
+2014-09-27 10:58:11,043 [main] DEBUG - Created connection 575593575.
+2014-09-27 10:58:11,045 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@224edc67]
+2014-09-27 10:58:11,046 [main] DEBUG - ==>  Preparing: SELECT id FROM wire_copy WHERE title = ? 
+2014-09-27 10:58:11,088 [main] DEBUG - ==> Parameters: 任立翔(String)
+2014-09-27 10:59:03,801 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-27 10:59:03,881 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-27 10:59:03,881 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-27 10:59:03,881 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-27 10:59:03,881 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-27 10:59:04,097 [main] DEBUG - Openning JDBC Connection
+2014-09-27 10:59:04,442 [main] DEBUG - Created connection 575593575.
+2014-09-27 10:59:04,444 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@224edc67]
+2014-09-27 10:59:04,445 [main] DEBUG - ==>  Preparing: SELECT id FROM wire_copy WHERE title = ? 
+2014-09-27 10:59:04,492 [main] DEBUG - ==> Parameters: 任立翔(String)
+2014-09-27 10:59:45,814 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-27 10:59:45,870 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-27 10:59:45,870 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-27 10:59:45,870 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-27 10:59:45,871 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-27 10:59:45,983 [main] DEBUG - Openning JDBC Connection
+2014-09-27 10:59:46,303 [main] DEBUG - Created connection 575593575.
+2014-09-27 10:59:46,305 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@224edc67]
+2014-09-27 10:59:46,305 [main] DEBUG - ==>  Preparing: SELECT id FROM wire_copy WHERE title = ? 
+2014-09-27 10:59:46,352 [main] DEBUG - ==> Parameters: 科普：一种蚊子幼虫“干尸”可“复活”(String)
+2014-09-27 11:09:58,757 [main] DEBUG - Logging initialized using 'org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2014-09-27 11:09:58,833 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-27 11:09:58,833 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-27 11:09:58,833 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-27 11:09:58,833 [main] DEBUG - PooledDataSource forcefully closed/removed all connections.
+2014-09-27 11:09:58,933 [main] DEBUG - Openning JDBC Connection
+2014-09-27 11:09:59,225 [main] DEBUG - Created connection 13326370.
+2014-09-27 11:09:59,227 [main] DEBUG - ooo Using Connection [com.mysql.jdbc.JDBC4Connection@cb5822]
+2014-09-27 11:09:59,228 [main] DEBUG - ==>  Preparing: UPDATE wire_copy SET count = count + 1 WHERE id = ? 
+2014-09-27 11:09:59,269 [main] DEBUG - ==> Parameters: 20(Integer)
+2014-09-27 11:09:59,305 [main] DEBUG - Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@cb5822]
