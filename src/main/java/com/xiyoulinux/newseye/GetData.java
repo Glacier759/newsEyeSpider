@@ -46,6 +46,7 @@ public class GetData {
                     e.printStackTrace(new PrintStream(baos));
                     NewsEyeSpider.logger.debug(baos.toString());
                 }
+                NewsEyeSpider.saveBloomFilter();
             }
         }catch (Exception e) {
             ByteArrayOutputStream baos = new ByteArrayOutputStream();
@@ -68,7 +69,7 @@ public class GetData {
                     URL link = new URL(url);
                     BufferedReader reader = new BufferedReader(new InputStreamReader(link.openStream()));
                     StringBuffer buffer = new StringBuffer();
-                    String line = "";
+                    String line;
                     while ((line = reader.readLine()) != null) {
                         buffer.append(line + "\n");
                     }
@@ -90,7 +91,15 @@ public class GetData {
     public void getNewsInfo( String url, Config config, String encode ) {  //新闻来源url
         Document doc = null;
         try {
+            if (NewsEyeSpider.filter.contains(url)) {
+                System.out.println("[BloomFilter] 已存在 " + url);
+                return;
+            }
+            else {
+                NewsEyeSpider.filter.add(url);
+            }
             NewsEyeSpider.logger.info("[即将获取] " + url);
+            System.out.println("[即将获取] " + url);
             doc = getDocument(url, encode);
             Element titleEle = doc.select(config.ruleTitle.titleEle).first();
             Element titleTag = titleEle.select(config.ruleTitle.titleTag).first();
@@ -136,6 +145,7 @@ public class GetData {
                 }
             }
             saveData.dataInfo.img = imgList;
+            saveData.saveToDB();
             saveData.saveToDisk();
         }catch (Exception e) {
             ByteArrayOutputStream baos = new ByteArrayOutputStream();

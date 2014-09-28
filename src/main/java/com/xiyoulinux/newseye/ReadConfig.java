@@ -9,6 +9,7 @@ import org.dom4j.io.OutputFormat;
 import org.dom4j.io.SAXReader;
 import org.dom4j.io.XMLWriter;
 
+import javax.sound.midi.SysexMessage;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -56,7 +57,15 @@ public class ReadConfig {
             xmlDoc = saxReader.read(new File("SpiderConfig.conf"));
             root = xmlDoc.getRootElement();
             List<?> classList = root.elements("class");
-
+            NewsEyeSpider.logger.info("[类别总数] " + classList.size());
+            System.out.println("[类别总数] " + classList.size());
+            int newspaperCount = 0;
+            for ( Iterator<?> iter = classList.iterator(); iter.hasNext(); ) {
+                Element newspaper = (Element) iter.next();
+                newspaperCount += newspaper.elements("newspaper").size();
+            }
+            NewsEyeSpider.logger.info("[新闻总数] " + newspaperCount);
+            System.out.println("[新闻总数] " + newspaperCount);
             for ( Iterator<?> iter = classList.iterator(); iter.hasNext(); ) {
                 try {
                     Element newspaper = (Element) iter.next();
@@ -114,66 +123,4 @@ public class ReadConfig {
         }
         return configList;
     }
-
-    public void saveXML() {
-        System.out.println(formatXML());
-    }
-
-    public String formatXML() {
-        String formatXMLStr = null;
-        try {
-            SAXReader saxReader = new SAXReader();
-            Document document = saxReader.read(new ByteArrayInputStream(root.asXML().getBytes()));
-            OutputFormat format = OutputFormat.createPrettyPrint();
-            format.setEncoding("UTF-8");
-            StringWriter writer = new StringWriter();
-            XMLWriter xmlWriter = new XMLWriter(writer, format);
-            xmlWriter.write(document);
-            formatXMLStr = writer.toString();
-        }catch (Exception e) {
-            ByteArrayOutputStream baos = new ByteArrayOutputStream();
-            e.printStackTrace(new PrintStream(baos));
-            NewsEyeSpider.logger.debug(baos.toString());
-        }
-        return formatXMLStr;
-    }
-
-
-
-    /*public void init() {
-        xmlDoc = DocumentHelper.createDocument();
-        root = xmlDoc.addElement("SpiderConfig");
-
-        Config configObj = new Config();
-        configObj.newspaper = "林达意日报";
-        configObj.startUrl = "www.lindayi.tk";
-        configObj.ruleBody = "body";
-        configObj.ruleCrawlDate = "222222";
-        configObj.ruleImg = "iiiiiii";
-        configObj.rulePage = "pppp";
-        configObj.rulePublishDate = "pdpdpdpd";
-        configObj.ruleSource = "sssssss";
-        configObj.ruleTitle = "ttttttt";
-        //addConfigXML(configObj);
-    }
-
-     public void addConfigXML( Config configObj ) {
-        Element newspaper = root.addElement("newspaper");
-        newspaper.addAttribute("name", configObj.newspaper);
-        newspaper.addAttribute("starturl", configObj.startUrl);
-        Element ruleTitle = newspaper.addElement("ruleTitle");
-        ruleTitle.addText(configObj.ruleTitle);
-        Element ruleSource = newspaper.addElement("ruleSource");
-        ruleSource.addText(configObj.ruleSource);
-        Element rulePage = newspaper.addElement("rulePage");
-        rulePage.addText(configObj.rulePage);
-        Element rulePublishDate = newspaper.addElement("rulePublishDate");
-        rulePublishDate.addText(configObj.rulePublishDate);
-        Element ruleCrawlDate = newspaper.addElement("ruleCrawlDate");
-        ruleCrawlDate.addText(configObj.ruleCrawlDate);
-        Element ruleBody = newspaper.addElement("ruleBody");
-        ruleBody.addText(configObj.ruleBody);
-        Element ruleImg = newspaper.addElement("ruleImg");
-        ruleImg.addText(configObj.ruleImg);
-    }*/
 }
