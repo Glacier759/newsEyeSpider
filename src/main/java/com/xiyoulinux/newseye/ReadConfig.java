@@ -29,7 +29,7 @@ public class ReadConfig {
         public bodyClass ruleBody = new bodyClass();
     }
     class newspaperClass {
-        public String newspaper, startUrl, encode;
+        public String newspaper, startUrl, encode, getHomePage;
     }
     class titleClass {
         public String titleEle, titleTag;
@@ -78,6 +78,7 @@ public class ReadConfig {
                         newsObj.newspaper = newsInfo.attributeValue("name");
                         newsObj.startUrl = newsInfo.attributeValue("startUrl");
                         newsObj.encode = newsInfo.attributeValue("encode");
+                        newsObj.getHomePage = newsInfo.attributeValue("getHomePage");
                         configObj.newspaperList.add(newsObj);
                     }
                     Element titleEle = newspaper.element("ruleTitle");

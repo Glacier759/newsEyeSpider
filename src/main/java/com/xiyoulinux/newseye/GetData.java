@@ -39,7 +39,12 @@ public class GetData {
                     String trueLink = getTrueLink(newsInfo.startUrl, newsInfo.encode);
                     if (trueLink.contains("58.42.249.98"))     //可否写到配置文件，对于特别的起始页
                         trueLink = trueLink.substring(0, trueLink.lastIndexOf('/') + 1) + "PageArticleIndexGB.htm";
+                    if ( newsInfo.getHomePage != null ) {
+                        Document doc = getDocument(trueLink, newsInfo.encode);
+                        trueLink = doc.select(newsInfo.getHomePage).select("a[href]").first().attr("abs:href");
+                    }
                     NewsEyeSpider.logger.info("trueLink = " + trueLink);
+                    System.out.println("trueLink = " + trueLink);
                     getPageInfo(trueLink, config, newsInfo.encode);
                 }catch (Exception e) {
                     ByteArrayOutputStream baos = new ByteArrayOutputStream();
@@ -93,6 +98,7 @@ public class GetData {
         try {
             if (NewsEyeSpider.filter.contains(url)) {
                 System.out.println("[BloomFilter] 已存在 " + url);
+                NewsEyeSpider.logger.info("[BloomFilter] 已存在 " + url);
                 return;
             }
             else {
@@ -186,7 +192,7 @@ public class GetData {
                         pageLink = pageLink.substring(beginIndex, endIndex);
                     }
                     if (!pageLink.contains("http")) {
-                        pageLink = url.substring(0, url.lastIndexOf('/')) + pageLink;
+                        pageLink = url.substring(0, url.lastIndexOf('/')+1) + pageLink;
                     }
                     pageSet.add(pageLink);
                     String pageText = pageEle.text();               //版面名称
@@ -282,6 +288,7 @@ public class GetData {
         try {
             //System.out.println(url);
             doc = getDocument(url, encode);
+            //System.out.println(doc.toString());
             if ( doc.toString().contains("location.replace") ) {
                 String html = doc.toString();
                 return getTrueLink(html.substring(html.indexOf("(\"") + 2, html.lastIndexOf("\"")), encode);
