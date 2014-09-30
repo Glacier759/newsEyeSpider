@@ -22,6 +22,8 @@ public class NewsEyeSpider {
 
     public static void main(String[] args) {
         try {
+        	System.out.println("[开始执行]");
+        	logger.info("[开始执行]");
             initBloomFilter();
 
             ReadConfig readConfig = new ReadConfig();
@@ -38,6 +40,8 @@ public class NewsEyeSpider {
                 }
             }
             saveBloomFilter();
+            System.out.println("[执行完毕]");
+            logger.info("[执行完毕]");
         }catch (Exception e) {
             ByteArrayOutputStream baos = new ByteArrayOutputStream();
             e.printStackTrace(new PrintStream(baos));

@@ -117,7 +117,11 @@ public class GetData {
             }
             saveData.dataInfo.title = title;
             saveData.dataInfo.publishDate = publishDate;
-
+            if ( !saveData.dataInfo.publishDate.equals(saveData.dataInfo.crawlDate) ) {
+            	System.out.println("[历史数据]　该报刊内容尚未更新　" + url);
+            	NewsEyeSpider.logger.info("[历史数据]　该报刊内容尚未更新　" + url);
+            	return;
+            }
             //ruleBody规则需要重新定制
 
             Element bodyEle = doc.select(config.ruleBody.bodyEle).first();
