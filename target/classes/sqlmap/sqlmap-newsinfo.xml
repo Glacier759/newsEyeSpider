@@ -27,7 +27,7 @@
 		INSERT INTO news
 		(title, url, newspaper, page, publish_date, crawl_date, body, news_id)
         VALUES
-		(#{title},#{url},#{newspaper},#{page},#{publish_date},#{crawl_date},#{body},#{news_id})
+		(#{title},#{url},#{newspaper},#{page},#{publish_date},#{crawl_date},#{body},#{news_id}):
     </insert>
 	<select id="selectNewsInfoID" parameterType="Integer" resultType="NewsInfo">
 		SELECT *

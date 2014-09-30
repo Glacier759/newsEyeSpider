@@ -54,7 +54,7 @@ public class ReadConfig {
         List<Config> configList = new ArrayList<Config>();
         try {
             SAXReader saxReader = new SAXReader();
-            xmlDoc = saxReader.read(new File("SpiderConfig.conf"));
+            xmlDoc = saxReader.read(new File("SpiderConfig.debug"));
             root = xmlDoc.getRootElement();
             List<?> classList = root.elements("class");
             NewsEyeSpider.logger.info("[类别总数] " + classList.size());

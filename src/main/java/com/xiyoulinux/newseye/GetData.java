@@ -10,10 +10,7 @@ import java.io.InputStreamReader;
 import java.io.PrintStream;
 import java.net.URL;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.HashSet;
-import java.util.List;
+import java.util.*;
 
 import com.xiyoulinux.newseye.ReadConfig.Config;
 import org.jsoup.nodes.Element;
@@ -147,7 +144,8 @@ public class GetData {
                         imgSrc = imageEle.attr("abs:src");
                     else if ( encode.equals("GBK") )
                         imgSrc = imageEle.attr("src");
-                    imgList.add(imgSrc);
+                    if ( imgSrc.contains("jpg") || imgSrc.contains("png") )
+                        imgList.add(imgSrc);
                 }
             }
             saveData.dataInfo.img = imgList;
@@ -189,7 +187,7 @@ public class GetData {
                         String[] subArry = config.rulePage.subString.split(",");
                         int beginIndex = Integer.parseInt(subArry[0]);
                         int endIndex = Integer.parseInt(subArry[1]);
-                        pageLink = pageLink.substring(beginIndex, endIndex);
+                        pageLink = pageLink.substring(beginIndex,endIndex);
                     }
                     if (!pageLink.contains("http")) {
                         pageLink = url.substring(0, url.lastIndexOf('/')+1) + pageLink;
